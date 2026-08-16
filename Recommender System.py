@@ -30,10 +30,10 @@ def load_artifacts():
 script_dir = os.path.dirname(os.path.abspath(__file__))
 csv_file_path = os.path.join(script_dir, 'attraction_metadata.csv')
 
-    # Use the absolute path
-    attr_meta = pd.read_csv(csv_file_path)
-    return (pred_nn, hybrid, user_ids, item_ids,
-            idx_to_item, user_to_idx, train_seen, attr_meta)
+# Use the absolute path
+attr_meta = pd.read_csv(csv_file_path)
+return (pred_nn, hybrid, user_ids, item_ids,
+        idx_to_item, user_to_idx, train_seen, attr_meta)
 
 # Load data
 (pred_cf, pred_content, pred_nn, hybrid, user_ids, item_ids,
