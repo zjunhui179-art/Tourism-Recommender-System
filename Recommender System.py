@@ -12,7 +12,7 @@ st.set_page_config(page_title="Tourism Recommender", layout="wide")
 def load_artifacts():
     # Load score matrices
     pred_nn = np.load('pred_nn_matrix.npy')
-   hybrid = np.load('hybrid_matrix.npy', allow_pickle=True)
+    hybrid = np.load('hybrid_matrix.npy', allow_pickle=True)
     
     # Load mappings
     with open('user_ids.pkl', 'rb') as f:
