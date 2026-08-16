@@ -1,0 +1,432 @@
+attraction_name,attraction_category,attraction_level,city,province,ticket_price,price_tier,item_idx,soup
+798 Yi Shu Qu,Wen_Hua_Yi_Shu,4A,Beijing,Beijing,0.0,Free,0,Wen_Hua_Yi_Shu Wen_Hua_Yi_Shu Wen_Hua_Yi_Shu Beijing Beijing 4A Beijing Free
+An Qing Zhen Feng Ta,Historical_Architecture,4A,An_Qing_Shi,Anhui,20.0,Budget,1,Historical_Architecture Historical_Architecture Historical_Architecture An_Qing_Shi An_Qing_Shi 4A Anhui Budget
+An Yuan Lu Kuang Gong Ren Yun Dong Ji Nian Guan,Revolutionary_Site,4A,Ping_Xiang_Shi,Jiangxi,0.0,Free,2,Revolutionary_Site Revolutionary_Site Revolutionary_Site Ping_Xiang_Shi Ping_Xiang_Shi 4A Jiangxi Free
+Ba Da Ling Chang Cheng,Historical_Culture,5A,Beijing,Beijing,40.0,Budget,3,Historical_Culture Historical_Culture Historical_Culture Beijing Beijing 5A Beijing Budget
+Ba Li Gou,Natural_Scenery,4A,Xin_Xiang_Shi,Henan,80.0,MidRange,4,Natural_Scenery Natural_Scenery Natural_Scenery Xin_Xiang_Shi Xin_Xiang_Shi 4A Henan MidRange
+Ba Li He,Natural_Scenery,5A,Fu_Yang_Shi,Anhui,90.0,MidRange,5,Natural_Scenery Natural_Scenery Natural_Scenery Fu_Yang_Shi Fu_Yang_Shi 5A Anhui MidRange
+Bai Ma Si,Religious_Culture,4A,Luo_Yang_Shi,Henan,35.0,Budget,6,Religious_Culture Religious_Culture Religious_Culture Luo_Yang_Shi Luo_Yang_Shi 4A Henan Budget
+Bai Se Qi Yi Ji Nian Guan,Revolutionary_Site,4A,Bai_Se_Shi,Guangxi,0.0,Free,7,Revolutionary_Site Revolutionary_Site Revolutionary_Site Bai_Se_Shi Bai_Se_Shi 4A Guangxi Free
+Bai Shan Chang Bai Shan Da Xia Gu,Natural_Scenery,4A,Bai_Shan_Shi,Jilin,125.0,MidRange,8,Natural_Scenery Natural_Scenery Natural_Scenery Bai_Shan_Shi Bai_Shan_Shi 4A Jilin MidRange
+Bai Shi Shan,Natural_Scenery,4A,Bao_Ding_Shi,Hebei,135.0,MidRange,9,Natural_Scenery Natural_Scenery Natural_Scenery Bao_Ding_Shi Bao_Ding_Shi 4A Hebei MidRange
+Bai Shui Yang,Natural_Scenery,5A,Ning_De_Shi,Fujian,120.0,MidRange,10,Natural_Scenery Natural_Scenery Natural_Scenery Ning_De_Shi Ning_De_Shi 5A Fujian MidRange
+Bai Yang Dian,Natural_Scenery,5A,Bao_Ding_Shi,Hebei,185.0,Premium,11,Natural_Scenery Natural_Scenery Natural_Scenery Bao_Ding_Shi Bao_Ding_Shi 5A Hebei Premium
+Bai Yun Shan,Natural_Scenery,5A,Guang_Zhou_Shi,Guangdong,38.03370786516854,Budget,12,Natural_Scenery Natural_Scenery Natural_Scenery Guang_Zhou_Shi Guang_Zhou_Shi 5A Guangdong Budget
+Bao Tu Quan,Natural_Scenery,4A,Ji_Nan_Shi,Shandong,40.0,Budget,13,Natural_Scenery Natural_Scenery Natural_Scenery Ji_Nan_Shi Ji_Nan_Shi 4A Shandong Budget
+Bei Da Hu Hua Xue Chang,Sports_&_Leisure,4A,Ji_Lin_Shi,Jilin,300.0,Premium,14,Sports_&_Leisure Sports_&_Leisure Sports_&_Leisure Ji_Lin_Shi Ji_Lin_Shi 4A Jilin Premium
+Bei Dai He,Natural_Scenery,4A,Qin_Huang_Dao_Shi,Hebei,0.0,Free,15,Natural_Scenery Natural_Scenery Natural_Scenery Qin_Huang_Dao_Shi Qin_Huang_Dao_Shi 4A Hebei Free
+Bei Hai Gong Yuan,Cheng_Shi_Gong_Yuan,4A,Beijing,Beijing,10.0,Budget,16,Cheng_Shi_Gong_Yuan Cheng_Shi_Gong_Yuan Cheng_Shi_Gong_Yuan Beijing Beijing 4A Beijing Budget
+Bei Hai Yin Tan,Natural_Scenery,4A,Bei_Hai_Shi,Guangxi,0.0,Free,17,Natural_Scenery Natural_Scenery Natural_Scenery Bei_Hai_Shi Bei_Hai_Shi 4A Guangxi Free
+Bei Jing Dong Wu Yuan,Zoo,4A,Beijing,Beijing,15.0,Budget,18,Zoo Zoo Zoo Beijing Beijing 4A Beijing Budget
+Bei Jing Huan Le Gu,Theme_Park,4A,Beijing,Beijing,299.0,Premium,19,Theme_Park Theme_Park Theme_Park Beijing Beijing 4A Beijing Premium
+Bei Jing Ye Sheng Dong Wu Yuan,Zoo,4A,Beijing,Beijing,150.0,MidRange,20,Zoo Zoo Zoo Beijing Beijing 4A Beijing MidRange
+Bei Jing Zhi Wu Yuan,Botanical_Garden,4A,Beijing,Beijing,10.0,Budget,21,Botanical_Garden Botanical_Garden Botanical_Garden Beijing Beijing 4A Beijing Budget
+Ben Xi Shui Dong,Zi_Ran_Qi_Guan,5A,Ben_Xi_Shi,Liaoning,110.0,MidRange,22,Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Ben_Xi_Shi Ben_Xi_Shi 5A Liaoning MidRange
+Bing Lang Gu,Min_Su_Wen_Hua,5A,Bao_Ting_Xian,Hainan,96.0,MidRange,23,Min_Su_Wen_Hua Min_Su_Wen_Hua Min_Su_Wen_Hua Bao_Ting_Xian Bao_Ting_Xian 5A Hainan MidRange
+Bo Zhou Hua Xi Lou,Historical_Architecture,4A,Bo_Zhou_Shi,Anhui,60.0,Budget,24,Historical_Architecture Historical_Architecture Historical_Architecture Bo_Zhou_Shi Bo_Zhou_Shi 4A Anhui Budget
+Cai Shi Ji,Historical_Culture,5A,Ma_An_Shan_Shi,Anhui,68.0,MidRange,25,Historical_Culture Historical_Culture Historical_Culture Ma_An_Shan_Shi Ma_An_Shan_Shi 5A Anhui MidRange
+Cha Gan Hu,Natural_Scenery,4A,Song_Yuan_Shi,Jilin,25.0,Budget,26,Natural_Scenery Natural_Scenery Natural_Scenery Song_Yuan_Shi Song_Yuan_Shi 4A Jilin Budget
+Cha Ya Shan,Natural_Scenery,5A,Zhu_Ma_Dian_Shi,Henan,70.0,MidRange,27,Natural_Scenery Natural_Scenery Natural_Scenery Zhu_Ma_Dian_Shi Zhu_Ma_Dian_Shi 5A Henan MidRange
+Chang Bai Shan,Natural_Scenery,5A,Yan_Bian_Zhou,Jilin,125.0,MidRange,28,Natural_Scenery Natural_Scenery Natural_Scenery Yan_Bian_Zhou Yan_Bian_Zhou 5A Jilin MidRange
+Chang Chun Dian Ying Zhi Pian Chang,Gong_Ye_Lv_You,4A,Chang_Chun_Shi,Jilin,90.0,MidRange,29,Gong_Ye_Lv_You Gong_Ye_Lv_You Gong_Ye_Lv_You Chang_Chun_Shi Chang_Chun_Shi 4A Jilin MidRange
+Chang Chun Shi Jie Diao Su Yuan,Wen_Hua_Yi_Shu,5A,Chang_Chun_Shi,Jilin,30.0,Budget,30,Wen_Hua_Yi_Shu Wen_Hua_Yi_Shu Wen_Hua_Yi_Shu Chang_Chun_Shi Chang_Chun_Shi 5A Jilin Budget
+Chang Jia Zhuang Yuan,Historical_Architecture,4A,Jin_Zhong_Shi,Shanxi,60.0,Budget,31,Historical_Architecture Historical_Architecture Historical_Architecture Jin_Zhong_Shi Jin_Zhong_Shi 4A Shanxi Budget
+Chang Sha Shi Jie Zhi Chuang,Theme_Park,4A,Chang_Sha_Shi,Hunan,200.0,Premium,32,Theme_Park Theme_Park Theme_Park Chang_Sha_Shi Chang_Sha_Shi 4A Hunan Premium
+Chang Zhou Zhong Hua Kong Long Yuan,Theme_Park,5A,Chang_Zhou_Shi,Jiangsu,260.0,Premium,33,Theme_Park Theme_Park Theme_Park Chang_Zhou_Shi Chang_Zhou_Shi 5A Jiangsu Premium
+Chao Hu,Natural_Scenery,4A,He_Fei_Shi,Anhui,0.0,Free,34,Natural_Scenery Natural_Scenery Natural_Scenery He_Fei_Shi He_Fei_Shi 4A Anhui Free
+Chao Zhou Guang Ji Qiao,Historical_Architecture,4A,Chao_Zhou_Shi,Guangdong,20.0,Budget,35,Historical_Architecture Historical_Architecture Historical_Architecture Chao_Zhou_Shi Chao_Zhou_Shi 4A Guangdong Budget
+Chen Jia Ci,Historical_Architecture,4A,Guang_Zhou_Shi,Guangdong,10.0,Budget,36,Historical_Architecture Historical_Architecture Historical_Architecture Guang_Zhou_Shi Guang_Zhou_Shi 4A Guangdong Budget
+Cheng De Bi Shu Shan Zhuang,Historical_Culture,5A,Cheng_De_Shi,Hebei,130.0,MidRange,37,Historical_Culture Historical_Culture Historical_Culture Cheng_De_Shi Cheng_De_Shi 5A Hebei MidRange
+Cheng Du Da Xiong Mao Fan Yu Ji Di,Zoo,4A,Cheng_Du_Shi,Sichuan,58.0,Budget,38,Zoo Zoo Zoo Cheng_Du_Shi Cheng_Du_Shi 4A Sichuan Budget
+Chong Sheng Si San Ta,Religious_Culture,5A,Da_Li_Zhou,Yunnan,75.0,MidRange,39,Religious_Culture Religious_Culture Religious_Culture Da_Li_Zhou Da_Li_Zhou 5A Yunnan MidRange
+Da Jue Shan,Natural_Scenery,5A,Fu_Zhou_Shi,Jiangxi,60.0,Budget,40,Natural_Scenery Natural_Scenery Natural_Scenery Fu_Zhou_Shi Fu_Zhou_Shi 5A Jiangxi Budget
+Da Li Gu Cheng,Ancient_Town,4A,Da_Li_Zhou,Yunnan,0.0,Free,41,Ancient_Town Ancient_Town Ancient_Town Da_Li_Zhou Da_Li_Zhou 4A Yunnan Free
+Da Lian Lao Hu Tan Hai Yang Gong Yuan,Theme_Park,5A,Da_Lian_Shi,Liaoning,220.0,Premium,42,Theme_Park Theme_Park Theme_Park Da_Lian_Shi Da_Lian_Shi 5A Liaoning Premium
+Da Lian Sen Lin Dong Wu Yuan,Zoo,4A,Da_Lian_Shi,Liaoning,120.0,MidRange,43,Zoo Zoo Zoo Da_Lian_Shi Da_Lian_Shi 4A Liaoning MidRange
+Da Lian Xing Hai Guang Chang,Urban_Landscape,4A,Da_Lian_Shi,Liaoning,0.0,Free,44,Urban_Landscape Urban_Landscape Urban_Landscape Da_Lian_Shi Da_Lian_Shi 4A Liaoning Free
+Da Ming Hu,Natural_Scenery,4A,Ji_Nan_Shi,Shandong,30.0,Budget,45,Natural_Scenery Natural_Scenery Natural_Scenery Ji_Nan_Shi Ji_Nan_Shi 4A Shandong Budget
+Da Qing Tie Ren Ji Nian Guan,Revolutionary_Site,4A,Da_Qing_Shi,Heilongjiang,0.0,Free,46,Revolutionary_Site Revolutionary_Site Revolutionary_Site Da_Qing_Shi Da_Qing_Shi 4A Heilongjiang Free
+Da Tang Fu Rong Yuan,Theme_Park,5A,Xi_An_Shi,Shaanxi,120.0,MidRange,47,Theme_Park Theme_Park Theme_Park Xi_An_Shi Xi_An_Shi 5A Shaanxi MidRange
+Da Tong Huo Shan Qun,Zi_Ran_Qi_Guan,4A,Da_Tong_Shi,Shanxi,0.0,Free,48,Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Da_Tong_Shi Da_Tong_Shi 4A Shanxi Free
+Da Xing An Ling Mo He Bei Ji Cun,Natural_Scenery,4A,Da_Xing_An_Ling_Di_Qu,Heilongjiang,68.0,MidRange,49,Natural_Scenery Natural_Scenery Natural_Scenery Da_Xing_An_Ling_Di_Qu Da_Xing_An_Ling_Di_Qu 4A Heilongjiang MidRange
+Da Yan Ta,Historical_Culture,5A,Xi_An_Shi,Shaanxi,50.0,Budget,50,Historical_Culture Historical_Culture Historical_Culture Xi_An_Shi Xi_An_Shi 5A Shaanxi Budget
+Dan Dong Feng Huang Shan,Natural_Scenery,4A,Dan_Dong_Shi,Liaoning,80.0,MidRange,51,Natural_Scenery Natural_Scenery Natural_Scenery Dan_Dong_Shi Dan_Dong_Shi 4A Liaoning MidRange
+Dan Xia Shan,Natural_Scenery,5A,Shao_Guan_Shi,Guangdong,100.0,MidRange,52,Natural_Scenery Natural_Scenery Natural_Scenery Shao_Guan_Shi Shao_Guan_Shi 5A Guangdong MidRange
+Dao Cheng Ya Ding,Natural_Scenery,5A,Gan_Zi_Zhou,Sichuan,146.0,MidRange,53,Natural_Scenery Natural_Scenery Natural_Scenery Gan_Zi_Zhou Gan_Zi_Zhou 5A Sichuan MidRange
+De Hang Da Xia Gu,Natural_Scenery,4A,Xiang_Xi_Zhou,Hunan,100.0,MidRange,54,Natural_Scenery Natural_Scenery Natural_Scenery Xiang_Xi_Zhou Xiang_Xi_Zhou 4A Hunan MidRange
+De Tian Pu Bu,Natural_Scenery,5A,Chong_Zuo_Shi,Guangxi,115.0,MidRange,55,Natural_Scenery Natural_Scenery Natural_Scenery Chong_Zuo_Shi Chong_Zuo_Shi 5A Guangxi MidRange
+De Zhou Tai Yang Gu,Theme_Park,4A,De_Zhou_Shi,Shandong,80.0,MidRange,56,Theme_Park Theme_Park Theme_Park De_Zhou_Shi De_Zhou_Shi 4A Shandong MidRange
+Dian Chi,Natural_Scenery,4A,Kun_Ming_Shi,Yunnan,0.0,Free,57,Natural_Scenery Natural_Scenery Natural_Scenery Kun_Ming_Shi Kun_Ming_Shi 4A Yunnan Free
+Dong Bei Hu Lin Yuan,Zoo,4A,Ha_Er_Bin_Shi,Heilongjiang,90.0,MidRange,58,Zoo Zoo Zoo Ha_Er_Bin_Shi Ha_Er_Bin_Shi 4A Heilongjiang MidRange
+Dong Fang Ming Zhu,Urban_Landmark,5A,Shanghai,Shanghai,220.0,Premium,59,Urban_Landmark Urban_Landmark Urban_Landmark Shanghai Shanghai 5A Shanghai Premium
+Dong Guan Ke Yuan,Historical_Architecture,4A,Dong_Guan_Shi,Guangdong,8.0,Budget,60,Historical_Architecture Historical_Architecture Historical_Architecture Dong_Guan_Shi Dong_Guan_Shi 4A Guangdong Budget
+Dong Hu,Natural_Scenery,5A,Wu_Han_Shi,Hubei,0.0,Free,61,Natural_Scenery Natural_Scenery Natural_Scenery Wu_Han_Shi Wu_Han_Shi 5A Hubei Free
+Dong Jiang Hu,Natural_Scenery,5A,Chen_Zhou_Shi,Hunan,80.0,MidRange,62,Natural_Scenery Natural_Scenery Natural_Scenery Chen_Zhou_Shi Chen_Zhou_Shi 5A Hunan MidRange
+Dong Lin Si,Religious_Culture,4A,Jiu_Jiang_Shi,Jiangxi,0.0,Free,63,Religious_Culture Religious_Culture Religious_Culture Jiu_Jiang_Shi Jiu_Jiang_Shi 4A Jiangxi Free
+Du Fu Cao Tang,Historical_Culture,4A,Cheng_Du_Shi,Sichuan,60.0,Budget,64,Historical_Culture Historical_Culture Historical_Culture Cheng_Du_Shi Cheng_Du_Shi 4A Sichuan Budget
+Du Jiang Yan,Historical_Site,5A,Cheng_Du_Shi,Sichuan,90.0,MidRange,65,Historical_Site Historical_Site Historical_Site Cheng_Du_Shi Cheng_Du_Shi 5A Sichuan MidRange
+E Mei Shan,Natural_Culture,5A,Le_Shan_Shi,Sichuan,160.0,Premium,66,Natural_Culture Natural_Culture Natural_Culture Le_Shan_Shi Le_Shan_Shi 5A Sichuan Premium
+E Zhou Liang Zi Hu,Natural_Scenery,4A,E_Zhou_Shi,Hubei,0.0,Free,67,Natural_Scenery Natural_Scenery Natural_Scenery E_Zhou_Shi E_Zhou_Shi 4A Hubei Free
+En Shi Da Xia Gu,Natural_Scenery,5A,En_Shi_Zhou,Hubei,170.0,Premium,68,Natural_Scenery Natural_Scenery Natural_Scenery En_Shi_Zhou En_Shi_Zhou 5A Hubei Premium
+Fa Men Si,Religious_Culture,5A,Bao_Ji_Shi,Shaanxi,100.0,MidRange,69,Religious_Culture Religious_Culture Religious_Culture Bao_Ji_Shi Bao_Ji_Shi 5A Shaanxi MidRange
+Fang Cheng Gang Shi Wan Da Shan,Natural_Scenery,4A,Fang_Cheng_Gang_Shi,Guangxi,60.0,Budget,70,Natural_Scenery Natural_Scenery Natural_Scenery Fang_Cheng_Gang_Shi Fang_Cheng_Gang_Shi 4A Guangxi Budget
+Fang Chuan Feng Jing Qu,Natural_Scenery,4A,Yan_Bian_Zhou,Jilin,70.0,MidRange,71,Natural_Scenery Natural_Scenery Natural_Scenery Yan_Bian_Zhou Yan_Bian_Zhou 4A Jilin MidRange
+Fang Te Huan Le Shi Jie,Theme_Park,5A,Wu_Hu_Shi,Anhui,280.0,Premium,72,Theme_Park Theme_Park Theme_Park Wu_Hu_Shi Wu_Hu_Shi 5A Anhui Premium
+Fen Jie Zhou Dao,Natural_Scenery,5A,Ling_Shui_Xian,Hainan,132.0,MidRange,73,Natural_Scenery Natural_Scenery Natural_Scenery Ling_Shui_Xian Ling_Shui_Xian 5A Hainan MidRange
+Feng Huang Gu Cheng,Ancient_Town,4A,Xiang_Xi_Zhou,Hunan,148.0,MidRange,74,Ancient_Town Ancient_Town Ancient_Town Xiang_Xi_Zhou Xiang_Xi_Zhou 4A Hunan MidRange
+Fu Jian Tu Lou,Historical_Architecture,5A,Long_Yan_Shi,Fujian,100.0,MidRange,75,Historical_Architecture Historical_Architecture Historical_Architecture Long_Yan_Shi Long_Yan_Shi 5A Fujian MidRange
+Fu Rong Zhen,Ancient_Town,4A,Xiang_Xi_Zhou,Hunan,75.0,MidRange,76,Ancient_Town Ancient_Town Ancient_Town Xiang_Xi_Zhou Xiang_Xi_Zhou 4A Hunan MidRange
+Fu Shun He Tu A La Cheng,Historical_Culture,4A,Fu_Shun_Shi,Liaoning,60.0,Budget,77,Historical_Culture Historical_Culture Historical_Culture Fu_Shun_Shi Fu_Shun_Shi 4A Liaoning Budget
+Fu Xian Hu,Natural_Scenery,4A,Yu_Xi_Shi,Yunnan,0.0,Free,78,Natural_Scenery Natural_Scenery Natural_Scenery Yu_Xi_Shi Yu_Xi_Shi 4A Yunnan Free
+Fu Xin Hai Tang Shan,Natural_Culture,4A,Fu_Xin_Shi,Liaoning,50.0,Budget,79,Natural_Culture Natural_Culture Natural_Culture Fu_Xin_Shi Fu_Xin_Shi 4A Liaoning Budget
+Fu Zhou Gu Shan,Natural_Scenery,4A,Fu_Zhou_Shi,Fujian,40.0,Budget,80,Natural_Scenery Natural_Scenery Natural_Scenery Fu_Zhou_Shi Fu_Zhou_Shi 4A Fujian Budget
+Fu Zhou San Shan Liang Ta,Historical_Culture,4A,Fu_Zhou_Shi,Fujian,0.0,Free,81,Historical_Culture Historical_Culture Historical_Culture Fu_Zhou_Shi Fu_Zhou_Shi 4A Fujian Free
+Fu Zi Miao Qin Huai Feng Guang Dai,Historical_Culture,5A,Nan_Jing_Shi,Jiangsu,0.0,Free,82,Historical_Culture Historical_Culture Historical_Culture Nan_Jing_Shi Nan_Jing_Shi 5A Jiangsu Free
+Gao Ju Li Yi Zhi,Historical_Site,5A,Tong_Hua_Shi,Jilin,100.0,MidRange,83,Historical_Site Historical_Site Historical_Site Tong_Hua_Shi Tong_Hua_Shi 5A Jilin MidRange
+Gong Wang Fu,Historical_Architecture,5A,Beijing,Beijing,40.0,Budget,84,Historical_Architecture Historical_Architecture Historical_Architecture Beijing Beijing 5A Beijing Budget
+Gu Bei Shui Zhen,Ancient_Town,4A,Beijing,Beijing,140.0,MidRange,85,Ancient_Town Ancient_Town Ancient_Town Beijing Beijing 4A Beijing MidRange
+Gu Gong Bo Wu Yuan,Historical_Culture,5A,Beijing,Beijing,60.0,Budget,86,Historical_Culture Historical_Culture Historical_Culture Beijing Beijing 5A Beijing Budget
+Gu Hui Zhou Wen Hua Lv You Qu,Historical_Culture,5A,Huang_Shan_Shi,Anhui,148.0,MidRange,87,Historical_Culture Historical_Culture Historical_Culture Huang_Shan_Shi Huang_Shan_Shi 5A Anhui MidRange
+Gu Lang Yu,Historical_Culture,5A,Xia_Men_Shi,Fujian,90.0,MidRange,88,Historical_Culture Historical_Culture Historical_Culture Xia_Men_Shi Xia_Men_Shi 5A Fujian MidRange
+Guan Lin,Historical_Culture,4A,Luo_Yang_Shi,Henan,40.0,Budget,89,Historical_Culture Historical_Culture Historical_Culture Luo_Yang_Shi Luo_Yang_Shi 4A Henan Budget
+Guang Fu Gu Cheng,Ancient_Town,5A,Han_Dan_Shi,Hebei,90.0,MidRange,90,Ancient_Town Ancient_Town Ancient_Town Han_Dan_Shi Han_Dan_Shi 5A Hebei MidRange
+Guang Zhou Ta,Urban_Landmark,4A,Guang_Zhou_Shi,Guangdong,150.0,MidRange,91,Urban_Landmark Urban_Landmark Urban_Landmark Guang_Zhou_Shi Guang_Zhou_Shi 4A Guangdong MidRange
+Guang Zhou Zhang Long Lv You Du Jia Qu,Theme_Park,5A,Guang_Zhou_Shi,Guangdong,350.0,Premium,92,Theme_Park Theme_Park Theme_Park Guang_Zhou_Shi Guang_Zhou_Shi 5A Guangdong Premium
+Gui Feng,Natural_Scenery,5A,Shang_Rao_Shi,Jiangxi,60.0,Budget,93,Natural_Scenery Natural_Scenery Natural_Scenery Shang_Rao_Shi Shang_Rao_Shi 5A Jiangxi Budget
+Gui Gang Gui Ping Xi Shan,Natural_Culture,4A,Gui_Gang_Shi,Guangxi,80.0,MidRange,94,Natural_Culture Natural_Culture Natural_Culture Gui_Gang_Shi Gui_Gang_Shi 4A Guangxi MidRange
+Gui Lin Li Jiang,Natural_Scenery,5A,Gui_Lin_Shi,Guangxi,210.0,Premium,95,Natural_Scenery Natural_Scenery Natural_Scenery Gui_Lin_Shi Gui_Lin_Shi 5A Guangxi Premium
+Gui Lin Liang Jiang Si Hu,Natural_Scenery,5A,Gui_Lin_Shi,Guangxi,190.0,Premium,96,Natural_Scenery Natural_Scenery Natural_Scenery Gui_Lin_Shi Gui_Lin_Shi 5A Guangxi Premium
+Gui Lin Xiang Bi Shan,Natural_Scenery,4A,Gui_Lin_Shi,Guangxi,55.0,Budget,97,Natural_Scenery Natural_Scenery Natural_Scenery Gui_Lin_Shi Gui_Lin_Shi 4A Guangxi Budget
+Guo Jia Bo Wu Guan,Wen_Bo_Yuan_Guan,4A,Beijing,Beijing,0.0,Free,98,Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Beijing Beijing 4A Beijing Free
+Ha Er Bin Bing Xue Da Shi Jie,Theme_Park,4A,Ha_Er_Bin_Shi,Heilongjiang,330.0,Premium,99,Theme_Park Theme_Park Theme_Park Ha_Er_Bin_Shi Ha_Er_Bin_Shi 4A Heilongjiang Premium
+Hai Kou Huo Shan Kou,Natural_Scenery,4A,Hai_Kou_Shi,Hainan,54.0,Budget,100,Natural_Scenery Natural_Scenery Natural_Scenery Hai_Kou_Shi Hai_Kou_Shi 4A Hainan Budget
+Hai Kou Qi Lou Lao Jie,Historical_Culture,3A,Hai_Kou_Shi,Hainan,0.0,Free,101,Historical_Culture Historical_Culture Historical_Culture Hai_Kou_Shi Hai_Kou_Shi 3A Hainan Free
+Hai Luo Gou,Natural_Scenery,5A,Gan_Zi_Zhou,Sichuan,90.0,MidRange,102,Natural_Scenery Natural_Scenery Natural_Scenery Gan_Zi_Zhou Gan_Zi_Zhou 5A Sichuan MidRange
+Han Yang Ling,Historical_Site,4A,Xian_Yang_Shi,Shaanxi,70.0,MidRange,103,Historical_Site Historical_Site Historical_Site Xian_Yang_Shi Xian_Yang_Shi 4A Shaanxi MidRange
+Hang Zhou Song Cheng,Theme_Park,4A,Hang_Zhou_Shi,Zhejiang,320.0,Premium,104,Theme_Park Theme_Park Theme_Park Hang_Zhou_Shi Hang_Zhou_Shi 4A Zhejiang Premium
+Hang Zhou Xi Hu,Natural_Scenery,5A,Hang_Zhou_Shi,Zhejiang,0.0,Free,105,Natural_Scenery Natural_Scenery Natural_Scenery Hang_Zhou_Shi Hang_Zhou_Shi 5A Zhejiang Free
+Hang Zhou Xi Xi Shi Di,Natural_Scenery,5A,Hang_Zhou_Shi,Zhejiang,80.0,MidRange,106,Natural_Scenery Natural_Scenery Natural_Scenery Hang_Zhou_Shi Hang_Zhou_Shi 5A Zhejiang MidRange
+He Chi Ba Ma Chang Shou Cun,Min_Su_Wen_Hua,4A,He_Chi_Shi,Guangxi,0.0,Free,107,Min_Su_Wen_Hua Min_Su_Wen_Hua Min_Su_Wen_Hua He_Chi_Shi He_Chi_Shi 4A Guangxi Free
+He Gang Luo Bei Ming Shan Dao,Natural_Scenery,4A,He_Gang_Shi,Heilongjiang,50.0,Budget,108,Natural_Scenery Natural_Scenery Natural_Scenery He_Gang_Shi He_Gang_Shi 4A Heilongjiang Budget
+He Shun Gu Zhen,Ancient_Town,4A,Bao_Shan_Shi,Yunnan,55.0,Budget,109,Ancient_Town Ancient_Town Ancient_Town Bao_Shan_Shi Bao_Shan_Shi 4A Yunnan Budget
+He Zhou Huang Yao Gu Zhen,Ancient_Town,4A,He_Zhou_Shi,Guangxi,100.0,MidRange,110,Ancient_Town Ancient_Town Ancient_Town He_Zhou_Shi He_Zhou_Shi 4A Guangxi MidRange
+Hei He Ai Hui Gu Cheng,Historical_Culture,4A,Hei_He_Shi,Heilongjiang,50.0,Budget,111,Historical_Culture Historical_Culture Historical_Culture Hei_He_Shi Hei_He_Shi 4A Heilongjiang Budget
+Heng Dian Ying Shi Cheng,Theme_Park,5A,Jin_Hua_Shi,Zhejiang,310.0,Premium,112,Theme_Park Theme_Park Theme_Park Jin_Hua_Shi Jin_Hua_Shi 5A Zhejiang Premium
+Heng Shui Hu,Natural_Scenery,4A,Heng_Shui_Shi,Hebei,30.0,Budget,113,Natural_Scenery Natural_Scenery Natural_Scenery Heng_Shui_Shi Heng_Shui_Shi 4A Hebei Budget
+Hong Dong Da Huai Shu,Historical_Culture,5A,Lin_Fen_Shi,Shanxi,80.0,MidRange,114,Historical_Culture Historical_Culture Historical_Culture Lin_Fen_Shi Lin_Fen_Shi 5A Shanxi MidRange
+Hong Hai Tan,Natural_Scenery,5A,Pan_Jin_Shi,Liaoning,85.0,MidRange,115,Natural_Scenery Natural_Scenery Natural_Scenery Pan_Jin_Shi Pan_Jin_Shi 5A Liaoning MidRange
+Hong Qi Qu,Revolutionary_Site,5A,An_Yang_Shi,Henan,80.0,MidRange,116,Revolutionary_Site Revolutionary_Site Revolutionary_Site An_Yang_Shi An_Yang_Shi 5A Henan MidRange
+Hu Kou Pu Bu,Natural_Scenery,4A,Lin_Fen_Shi,Shanxi,95.48672566371681,MidRange,117,Natural_Scenery Natural_Scenery Natural_Scenery Lin_Fen_Shi Lin_Fen_Shi 4A Shanxi MidRange
+Hu Lu Dao Xing Cheng Gu Cheng,Historical_Culture,4A,Hu_Lu_Dao_Shi,Liaoning,50.0,Budget,118,Historical_Culture Historical_Culture Historical_Culture Hu_Lu_Dao_Shi Hu_Lu_Dao_Shi 4A Liaoning Budget
+Hu Nan Sheng Bo Wu Guan,Wen_Bo_Yuan_Guan,4A,Chang_Sha_Shi,Hunan,0.0,Free,119,Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Chang_Sha_Shi Chang_Sha_Shi 4A Hunan Free
+Hu Tiao Xia,Natural_Scenery,4A,Di_Qing_Zhou,Yunnan,65.0,MidRange,120,Natural_Scenery Natural_Scenery Natural_Scenery Di_Qing_Zhou Di_Qing_Zhou 4A Yunnan MidRange
+Hua Guo Shan,Natural_Culture,5A,Lian_Yun_Gang_Shi,Jiangsu,90.0,MidRange,121,Natural_Culture Natural_Culture Natural_Culture Lian_Yun_Gang_Shi Lian_Yun_Gang_Shi 5A Jiangsu MidRange
+Hua Qing Gong,Historical_Culture,5A,Xi_An_Shi,Shaanxi,120.0,MidRange,122,Historical_Culture Historical_Culture Historical_Culture Xi_An_Shi Xi_An_Shi 5A Shaanxi MidRange
+Hua Shan,Natural_Scenery,5A,Wei_Nan_Shi,Shaanxi,160.0,Premium,123,Natural_Scenery Natural_Scenery Natural_Scenery Wei_Nan_Shi Wei_Nan_Shi 5A Shaanxi Premium
+Hua Shan Mi Ku,Zi_Ran_Qi_Guan,4A,Huang_Shan_Shi,Anhui,91.0,MidRange,124,Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Huang_Shan_Shi Huang_Shan_Shi 4A Anhui MidRange
+Huang Cheng Xiang Fu,Historical_Architecture,5A,Jin_Cheng_Shi,Shanxi,120.0,MidRange,125,Historical_Architecture Historical_Architecture Historical_Architecture Jin_Cheng_Shi Jin_Cheng_Shi 5A Shanxi MidRange
+Huang Di Ling,Historical_Culture,5A,Yan_An_Shi,Shaanxi,75.0,MidRange,126,Historical_Culture Historical_Culture Historical_Culture Yan_An_Shi Yan_An_Shi 5A Shaanxi MidRange
+Huang He Feng Jing Qu,Natural_Scenery,4A,Zheng_Zhou_Shi,Henan,60.0,Budget,127,Natural_Scenery Natural_Scenery Natural_Scenery Zheng_Zhou_Shi Zheng_Zhou_Shi 4A Henan Budget
+Huang He Lou,Historical_Architecture,5A,Wu_Han_Shi,Hubei,70.0,MidRange,128,Historical_Architecture Historical_Architecture Historical_Architecture Wu_Han_Shi Wu_Han_Shi 5A Hubei MidRange
+Huang Long,Natural_Scenery,5A,A_Ba_Zhou,Sichuan,170.0,Premium,129,Natural_Scenery Natural_Scenery Natural_Scenery A_Ba_Zhou A_Ba_Zhou 5A Sichuan Premium
+Huang Shan,Natural_Scenery,5A,Huang_Shan_Shi,Anhui,190.0,Premium,130,Natural_Scenery Natural_Scenery Natural_Scenery Huang_Shan_Shi Huang_Shan_Shi 5A Anhui Premium
+Huang Shi Guo Jia Kuang Shan Gong Yuan,Gong_Ye_Lv_You,4A,Huang_Shi_Shi,Hubei,50.0,Budget,131,Gong_Ye_Lv_You Gong_Ye_Lv_You Gong_Ye_Lv_You Huang_Shi_Shi Huang_Shi_Shi 4A Hubei Budget
+Hui Min Jie,Food_Street,3A,Xi_An_Shi,Shaanxi,0.0,Free,132,Food_Street Food_Street Food_Street Xi_An_Shi Xi_An_Shi 3A Shaanxi Free
+Hui Zhou Xi Hu,Natural_Scenery,4A,Hui_Zhou_Shi,Guangdong,0.0,Free,133,Natural_Scenery Natural_Scenery Natural_Scenery Hui_Zhou_Shi Hui_Zhou_Shi 4A Guangdong Free
+Ji Gong Shan,Natural_Scenery,4A,Xin_Yang_Shi,Henan,60.0,Budget,134,Natural_Scenery Natural_Scenery Natural_Scenery Xin_Yang_Shi Xin_Yang_Shi 4A Henan Budget
+Ji Lin Bei Shan,Natural_Culture,4A,Ji_Lin_Shi,Jilin,0.0,Free,135,Natural_Culture Natural_Culture Natural_Culture Ji_Lin_Shi Ji_Lin_Shi 4A Jilin Free
+Ji Xi Xing Kai Hu,Natural_Scenery,4A,Ji_Xi_Shi,Heilongjiang,45.0,Budget,136,Natural_Scenery Natural_Scenery Natural_Scenery Ji_Xi_Shi Ji_Xi_Shi 4A Heilongjiang Budget
+Jia Mu Si Tong Jiang San Jiang Kou,Natural_Scenery,4A,Jia_Mu_Si_Shi,Heilongjiang,30.0,Budget,137,Natural_Scenery Natural_Scenery Natural_Scenery Jia_Mu_Si_Shi Jia_Mu_Si_Shi 4A Heilongjiang Budget
+Jia Xing Nan Hu,Revolutionary_Site,5A,Jia_Xing_Shi,Zhejiang,60.0,Budget,138,Revolutionary_Site Revolutionary_Site Revolutionary_Site Jia_Xing_Shi Jia_Xing_Shi 5A Zhejiang Budget
+Jian Men Guan,Historical_Culture,5A,Guang_Yuan_Shi,Sichuan,105.0,MidRange,139,Historical_Culture Historical_Culture Historical_Culture Guang_Yuan_Shi Guang_Yuan_Shi 5A Sichuan MidRange
+Jian Shui Gu Cheng,Ancient_Town,4A,Hong_He_Zhou,Yunnan,0.0,Free,140,Ancient_Town Ancient_Town Ancient_Town Hong_He_Zhou Hong_He_Zhou 4A Yunnan Free
+Jin Ci,Historical_Culture,4A,Tai_Yuan_Shi,Shanxi,80.0,MidRange,141,Historical_Culture Historical_Culture Historical_Culture Tai_Yuan_Shi Tai_Yuan_Shi 4A Shanxi MidRange
+Jin Ji Hu,Urban_Landscape,5A,Su_Zhou_Shi,Jiangsu,0.0,Free,142,Urban_Landscape Urban_Landscape Urban_Landscape Su_Zhou_Shi Su_Zhou_Shi 5A Jiangsu Free
+Jin Li,Historical_Culture,3A,Cheng_Du_Shi,Sichuan,0.0,Free,143,Historical_Culture Historical_Culture Historical_Culture Cheng_Du_Shi Cheng_Du_Shi 3A Sichuan Free
+Jin Shan Ling Chang Cheng,Historical_Culture,4A,Cheng_De_Shi,Hebei,65.0,MidRange,144,Historical_Culture Historical_Culture Historical_Culture Cheng_De_Shi Cheng_De_Shi 4A Hebei MidRange
+Jin Shi Tan,Natural_Scenery,5A,Da_Lian_Shi,Liaoning,120.0,MidRange,145,Natural_Scenery Natural_Scenery Natural_Scenery Da_Lian_Shi Da_Lian_Shi 5A Liaoning MidRange
+Jin Si Xia,Natural_Scenery,5A,Shang_Luo_Shi,Shaanxi,100.0,MidRange,146,Natural_Scenery Natural_Scenery Natural_Scenery Shang_Luo_Shi Shang_Luo_Shi 5A Shaanxi MidRange
+Jin Zhou Bi Jia Shan,Natural_Scenery,4A,Jin_Zhou_Shi,Liaoning,65.0,MidRange,147,Natural_Scenery Natural_Scenery Natural_Scenery Jin_Zhou_Shi Jin_Zhou_Shi 4A Liaoning MidRange
+Jing De Zhen Gu Yao,Historical_Culture,5A,Jing_De_Zhen_Shi,Jiangxi,95.0,MidRange,148,Historical_Culture Historical_Culture Historical_Culture Jing_De_Zhen_Shi Jing_De_Zhen_Shi 5A Jiangxi MidRange
+Jing De Zhen Tao Ci Bo Wu Guan,Wen_Bo_Yuan_Guan,4A,Jing_De_Zhen_Shi,Jiangxi,0.0,Free,149,Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Jing_De_Zhen_Shi Jing_De_Zhen_Shi 4A Jiangxi Free
+Jing Gang Shan,Revolutionary_Site,5A,Ji_An_Shi,Jiangxi,165.0,Premium,150,Revolutionary_Site Revolutionary_Site Revolutionary_Site Ji_An_Shi Ji_An_Shi 5A Jiangxi Premium
+Jing Men Ming Xian Ling,Historical_Site,4A,Jing_Men_Shi,Hubei,50.0,Budget,151,Historical_Site Historical_Site Historical_Site Jing_Men_Shi Jing_Men_Shi 4A Hubei Budget
+Jing Po Hu,Natural_Scenery,5A,Mu_Dan_Jiang_Shi,Heilongjiang,100.0,MidRange,152,Natural_Scenery Natural_Scenery Natural_Scenery Mu_Dan_Jiang_Shi Mu_Dan_Jiang_Shi 5A Heilongjiang MidRange
+Jing Yue Tan,Natural_Scenery,5A,Chang_Chun_Shi,Jilin,30.0,Budget,153,Natural_Scenery Natural_Scenery Natural_Scenery Chang_Chun_Shi Chang_Chun_Shi 5A Jilin Budget
+Jing Zhou Gu Cheng,Historical_Culture,4A,Jing_Zhou_Shi,Hubei,35.0,Budget,154,Historical_Culture Historical_Culture Historical_Culture Jing_Zhou_Shi Jing_Zhou_Shi 4A Hubei Budget
+Jiu Hua Shan,Religious_Culture,5A,Chi_Zhou_Shi,Anhui,160.0,Premium,155,Religious_Culture Religious_Culture Religious_Culture Chi_Zhou_Shi Chi_Zhou_Shi 5A Anhui Premium
+Jiu Yi Ba Li Shi Bo Wu Guan,Revolutionary_Site,4A,Shen_Yang_Shi,Liaoning,0.0,Free,156,Revolutionary_Site Revolutionary_Site Revolutionary_Site Shen_Yang_Shi Shen_Yang_Shi 4A Liaoning Free
+Jiu Zhai Gou,Natural_Scenery,5A,A_Ba_Zhou,Sichuan,220.0,Premium,157,Natural_Scenery Natural_Scenery Natural_Scenery A_Ba_Zhou A_Ba_Zhou 5A Sichuan Premium
+Ju Zi Zhou,Cheng_Shi_Gong_Yuan,5A,Chang_Sha_Shi,Hunan,0.0,Free,158,Cheng_Shi_Gong_Yuan Cheng_Shi_Gong_Yuan Cheng_Shi_Gong_Yuan Chang_Sha_Shi Chang_Sha_Shi 5A Hunan Free
+Kai Feng Fu,Historical_Culture,4A,Kai_Feng_Shi,Henan,65.0,MidRange,159,Historical_Culture Historical_Culture Historical_Culture Kai_Feng_Shi Kai_Feng_Shi 4A Henan MidRange
+Kai Ping Diao Lou,Historical_Architecture,5A,Jiang_Men_Shi,Guangdong,180.0,Premium,160,Historical_Architecture Historical_Architecture Historical_Architecture Jiang_Men_Shi Jiang_Men_Shi 5A Guangdong Premium
+Kuan Zhai Xiang Zi,Historical_Culture,3A,Cheng_Du_Shi,Sichuan,0.0,Free,161,Historical_Culture Historical_Culture Historical_Culture Cheng_Du_Shi Cheng_Du_Shi 3A Sichuan Free
+Kun Ming Shi Bo Yuan,Theme_Park,5A,Kun_Ming_Shi,Yunnan,100.0,MidRange,162,Theme_Park Theme_Park Theme_Park Kun_Ming_Shi Kun_Ming_Shi 5A Yunnan MidRange
+Lai Bin Jin Xiu Sheng Tang Shan,Natural_Scenery,4A,Lai_Bin_Shi,Guangxi,65.0,MidRange,163,Natural_Scenery Natural_Scenery Natural_Scenery Lai_Bin_Shi Lai_Bin_Shi 4A Guangxi MidRange
+Lang Fang Tian Xia Di Yi Cheng,Theme_Park,4A,Lang_Fang_Shi,Hebei,80.0,MidRange,164,Theme_Park Theme_Park Theme_Park Lang_Fang_Shi Lang_Fang_Shi 4A Hebei MidRange
+Lang Shan,Natural_Scenery,5A,Shao_Yang_Shi,Hunan,136.0,MidRange,165,Natural_Scenery Natural_Scenery Natural_Scenery Shao_Yang_Shi Shao_Yang_Shi 5A Hunan MidRange
+Lang Ya Shan,Natural_Culture,4A,Chu_Zhou_Shi,Anhui,95.0,MidRange,166,Natural_Culture Natural_Culture Natural_Culture Chu_Zhou_Shi Chu_Zhou_Shi 4A Anhui MidRange
+Lang Zhong Gu Cheng,Ancient_Town,5A,Nan_Chong_Shi,Sichuan,120.0,MidRange,167,Ancient_Town Ancient_Town Ancient_Town Nan_Chong_Shi Nan_Chong_Shi 5A Sichuan MidRange
+Lao Jun Shan,Natural_Culture,5A,Luo_Yang_Shi,Henan,100.0,MidRange,168,Natural_Culture Natural_Culture Natural_Culture Luo_Yang_Shi Luo_Yang_Shi 5A Henan MidRange
+Lao Shan,Natural_Scenery,5A,Qing_Dao_Shi,Shandong,90.0,MidRange,169,Natural_Scenery Natural_Scenery Natural_Scenery Qing_Dao_Shi Qing_Dao_Shi 5A Shandong MidRange
+Le Shan Da Fu,Religious_Culture,5A,Le_Shan_Shi,Sichuan,80.0,MidRange,170,Religious_Culture Religious_Culture Religious_Culture Le_Shan_Shi Le_Shan_Shi 5A Sichuan MidRange
+Li Jiang Gu Cheng,Ancient_Town,5A,Li_Jiang_Shi,Yunnan,80.0,MidRange,171,Ancient_Town Ancient_Town Ancient_Town Li_Jiang_Shi Li_Jiang_Shi 5A Yunnan MidRange
+Li Shui Yun He Ti Tian,Natural_Scenery,4A,Li_Shui_Shi,Zhejiang,80.0,MidRange,172,Natural_Scenery Natural_Scenery Natural_Scenery Li_Shui_Shi Li_Shui_Shi 4A Zhejiang MidRange
+Liao Cheng Dong Chang Hu,Natural_Scenery,4A,Liao_Cheng_Shi,Shandong,0.0,Free,173,Natural_Scenery Natural_Scenery Natural_Scenery Liao_Cheng_Shi Liao_Cheng_Shi 4A Shandong Free
+Liao Yang Guang You Si,Religious_Culture,4A,Liao_Yang_Shi,Liaoning,40.0,Budget,174,Religious_Culture Religious_Culture Religious_Culture Liao_Yang_Shi Liao_Yang_Shi 4A Liaoning Budget
+Liao Yuan Kuang Gong Mu,Revolutionary_Site,4A,Liao_Yuan_Shi,Jilin,30.0,Budget,175,Revolutionary_Site Revolutionary_Site Revolutionary_Site Liao_Yuan_Shi Liao_Yuan_Shi 4A Jilin Budget
+Ling Shan Da Fu,Religious_Culture,5A,Wu_Xi_Shi,Jiangsu,210.0,Premium,176,Religious_Culture Religious_Culture Religious_Culture Wu_Xi_Shi Wu_Xi_Shi 5A Jiangsu Premium
+Liu Ding Shan,Religious_Culture,5A,Yan_Bian_Zhou,Jilin,110.0,MidRange,177,Religious_Culture Religious_Culture Religious_Culture Yan_Bian_Zhou Yan_Bian_Zhou 5A Jilin MidRange
+Liu Gong Dao,Revolutionary_Site,5A,Wei_Hai_Shi,Shandong,130.0,MidRange,178,Revolutionary_Site Revolutionary_Site Revolutionary_Site Wei_Hai_Shi Wei_Hai_Shi 5A Shandong MidRange
+Liu Ye Hu,Natural_Scenery,4A,Chang_De_Shi,Hunan,0.0,Free,179,Natural_Scenery Natural_Scenery Natural_Scenery Chang_De_Shi Chang_De_Shi 4A Hunan Free
+Liu Zhou Long Tan Gong Yuan,Natural_Scenery,4A,Liu_Zhou_Shi,Guangxi,0.0,Free,180,Natural_Scenery Natural_Scenery Natural_Scenery Liu_Zhou_Shi Liu_Zhou_Shi 4A Guangxi Free
+Long Hu Shan,Natural_Culture,5A,Ying_Tan_Shi,Jiangxi,165.0,Premium,181,Natural_Culture Natural_Culture Natural_Culture Ying_Tan_Shi Ying_Tan_Shi 5A Jiangxi Premium
+Long Ji Ti Tian,Natural_Scenery,4A,Gui_Lin_Shi,Guangxi,80.0,MidRange,182,Natural_Scenery Natural_Scenery Natural_Scenery Gui_Lin_Shi Gui_Lin_Shi 4A Guangxi MidRange
+Long Men Shi Ku,Historical_Culture,5A,Luo_Yang_Shi,Henan,90.0,MidRange,183,Historical_Culture Historical_Culture Historical_Culture Luo_Yang_Shi Luo_Yang_Shi 5A Henan MidRange
+Long Ting Gong Yuan,Historical_Culture,4A,Kai_Feng_Shi,Henan,50.0,Budget,184,Historical_Culture Historical_Culture Historical_Culture Kai_Feng_Shi Kai_Feng_Shi 4A Henan Budget
+Long Wan Qun Guo Jia Sen Lin Gong Yuan,Natural_Scenery,4A,Tong_Hua_Shi,Jilin,50.0,Budget,185,Natural_Scenery Natural_Scenery Natural_Scenery Tong_Hua_Shi Tong_Hua_Shi 4A Jilin Budget
+Long Yan Guan Zhi Shan,Natural_Scenery,4A,Long_Yan_Shi,Fujian,115.0,MidRange,186,Natural_Scenery Natural_Scenery Natural_Scenery Long_Yan_Shi Long_Yan_Shi 4A Fujian MidRange
+Lu Gu Hu,Natural_Scenery,4A,Liang_Shan_Zhou,Sichuan,70.0,MidRange,187,Natural_Scenery Natural_Scenery Natural_Scenery Liang_Shan_Zhou Liang_Shan_Zhou 4A Sichuan MidRange
+Lu Gu Hu ( Yun Nan Bu Fen ),Natural_Scenery,4A,Li_Jiang_Shi,Yunnan,70.0,MidRange,188,Natural_Scenery Natural_Scenery Natural_Scenery Li_Jiang_Shi Li_Jiang_Shi 4A Yunnan MidRange
+Lu Shan,Natural_Culture,5A,Jiu_Jiang_Shi,Jiangxi,160.0,Premium,189,Natural_Culture Natural_Culture Natural_Culture Jiu_Jiang_Shi Jiu_Jiang_Shi 5A Jiangxi Premium
+Lu Shui He Guo Jia Sen Lin Gong Yuan,Natural_Scenery,4A,Bai_Shan_Shi,Jilin,60.0,Budget,190,Natural_Scenery Natural_Scenery Natural_Scenery Bai_Shan_Shi Bai_Shan_Shi 4A Jilin Budget
+Lu Ya Shan,Natural_Scenery,4A,Xin_Zhou_Shi,Shanxi,100.0,MidRange,191,Natural_Scenery Natural_Scenery Natural_Scenery Xin_Zhou_Shi Xin_Zhou_Shi 4A Shanxi MidRange
+Luo Fu Shan,Natural_Scenery,5A,Hui_Zhou_Shi,Guangdong,60.0,Budget,192,Natural_Scenery Natural_Scenery Natural_Scenery Hui_Zhou_Shi Hui_Zhou_Shi 5A Guangdong Budget
+Mang Dang Shan,Historical_Culture,5A,Shang_Qiu_Shi,Henan,90.0,MidRange,193,Historical_Culture Historical_Culture Historical_Culture Shang_Qiu_Shi Shang_Qiu_Shi 5A Henan MidRange
+Mang Shan,Natural_Scenery,4A,Chen_Zhou_Shi,Hunan,80.0,MidRange,194,Natural_Scenery Natural_Scenery Natural_Scenery Chen_Zhou_Shi Chen_Zhou_Shi 4A Hunan MidRange
+Mao Ling,Historical_Site,4A,Xian_Yang_Shi,Shaanxi,80.0,MidRange,195,Historical_Site Historical_Site Historical_Site Xian_Yang_Shi Xian_Yang_Shi 4A Shaanxi MidRange
+Mao Shan,Religious_Culture,5A,Zhen_Jiang_Shi,Jiangsu,120.0,MidRange,196,Religious_Culture Religious_Culture Religious_Culture Zhen_Jiang_Shi Zhen_Jiang_Shi 5A Jiangsu MidRange
+Mei Li Xue Shan,Natural_Scenery,4A,Di_Qing_Zhou,Yunnan,150.0,MidRange,197,Natural_Scenery Natural_Scenery Natural_Scenery Di_Qing_Zhou Di_Qing_Zhou 4A Yunnan MidRange
+Mei Zhou Dao,Natural_Culture,5A,Pu_Tian_Shi,Fujian,65.0,MidRange,198,Natural_Culture Natural_Culture Natural_Culture Pu_Tian_Shi Pu_Tian_Shi 5A Fujian MidRange
+Mei Zhou Ke Tian Xia,Wen_Hua_Lv_You,4A,Mei_Zhou_Shi,Guangdong,100.0,MidRange,199,Wen_Hua_Lv_You Wen_Hua_Lv_You Wen_Hua_Lv_You Mei_Zhou_Shi Mei_Zhou_Shi 4A Guangdong MidRange
+Mian Shan,Natural_Culture,5A,Jin_Zhong_Shi,Shanxi,110.0,MidRange,200,Natural_Culture Natural_Culture Natural_Culture Jin_Zhong_Shi Jin_Zhong_Shi 5A Shanxi MidRange
+Ming Huang Ling,Historical_Site,4A,Chu_Zhou_Shi,Anhui,70.0,MidRange,201,Historical_Site Historical_Site Historical_Site Chu_Zhou_Shi Chu_Zhou_Shi 4A Anhui MidRange
+Ming Yue Shan,Natural_Scenery,5A,Yi_Chun_Shi,Jiangxi,95.0,MidRange,202,Natural_Scenery Natural_Scenery Natural_Scenery Yi_Chun_Shi Yi_Chun_Shi 5A Jiangxi MidRange
+Mo Gan Shan,Natural_Scenery,4A,Hu_Zhou_Shi,Zhejiang,80.0,MidRange,203,Natural_Scenery Natural_Scenery Natural_Scenery Hu_Zhou_Shi Hu_Zhou_Shi 4A Zhejiang MidRange
+Mu Lan Wen Hua Sheng Tai Lv You Qu,Natural_Culture,5A,Wu_Han_Shi,Hubei,80.0,MidRange,204,Natural_Culture Natural_Culture Natural_Culture Wu_Han_Shi Wu_Han_Shi 5A Hubei MidRange
+Mu Tian Yu Chang Cheng,Historical_Culture,4A,Beijing,Beijing,45.0,Budget,205,Historical_Culture Historical_Culture Historical_Culture Beijing Beijing 4A Beijing Budget
+Nan Chang Ba Yi Qi Yi Ji Nian Guan,Revolutionary_Site,4A,Nan_Chang_Shi,Jiangxi,0.0,Free,206,Revolutionary_Site Revolutionary_Site Revolutionary_Site Nan_Chang_Shi Nan_Chang_Shi 4A Jiangxi Free
+Nan Jing Bo Wu Yuan,Wen_Bo_Yuan_Guan,4A,Nan_Jing_Shi,Jiangsu,0.0,Free,207,Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Nan_Jing_Shi Nan_Jing_Shi 4A Jiangsu Free
+Nan Luo Gu Xiang,Historical_Culture,4A,Beijing,Beijing,0.0,Free,208,Historical_Culture Historical_Culture Historical_Culture Beijing Beijing 4A Beijing Free
+Nan Ning Qing Xiu Shan,Natural_Scenery,5A,Nan_Ning_Shi,Guangxi,20.0,Budget,209,Natural_Scenery Natural_Scenery Natural_Scenery Nan_Ning_Shi Nan_Ning_Shi 5A Guangxi Budget
+Nan Ping He Ping Gu Zhen,Ancient_Town,4A,Nan_Ping_Shi,Fujian,70.0,MidRange,210,Ancient_Town Ancient_Town Ancient_Town Nan_Ping_Shi Nan_Ping_Shi 4A Fujian MidRange
+Nan Shan Wen Hua Lv You Qu,Religious_Culture,5A,San_Ya_Shi,Hainan,129.0,MidRange,211,Religious_Culture Religious_Culture Religious_Culture San_Ya_Shi San_Ya_Shi 5A Hainan MidRange
+Nan Tong Lang Shan,Natural_Culture,4A,Nan_Tong_Shi,Jiangsu,70.0,MidRange,212,Natural_Culture Natural_Culture Natural_Culture Nan_Tong_Shi Nan_Tong_Shi 4A Jiangsu MidRange
+Nan Xun Gu Zhen,Ancient_Town,5A,Hu_Zhou_Shi,Zhejiang,80.0,MidRange,213,Ancient_Town Ancient_Town Ancient_Town Hu_Zhou_Shi Hu_Zhou_Shi 5A Zhejiang MidRange
+Nan Yue Heng Shan,Natural_Culture,5A,Heng_Yang_Shi,Hunan,110.0,MidRange,214,Natural_Culture Natural_Culture Natural_Culture Heng_Yang_Shi Heng_Yang_Shi 5A Hunan MidRange
+Ning Bo Tian Yi Ge,Historical_Architecture,4A,Ning_Bo_Shi,Zhejiang,30.0,Budget,215,Historical_Architecture Historical_Architecture Historical_Architecture Ning_Bo_Shi Ning_Bo_Shi 4A Zhejiang Budget
+Ning De Yuan Yang Xi,Natural_Scenery,5A,Ning_De_Shi,Fujian,78.0,MidRange,216,Natural_Scenery Natural_Scenery Natural_Scenery Ning_De_Shi Ning_De_Shi 5A Fujian MidRange
+Peng Lai Ge,Historical_Culture,5A,Yan_Tai_Shi,Shandong,100.0,MidRange,217,Historical_Culture Historical_Culture Historical_Culture Yan_Tai_Shi Yan_Tai_Shi 5A Shandong MidRange
+Ping Yao Gu Cheng,Ancient_Town,5A,Jin_Zhong_Shi,Shanxi,125.0,MidRange,218,Ancient_Town Ancient_Town Ancient_Town Jin_Zhong_Shi Jin_Zhong_Shi 5A Shanxi MidRange
+Po Yang Hu,Natural_Scenery,4A,Jiu_Jiang_Shi,Jiangxi,0.0,Free,219,Natural_Scenery Natural_Scenery Natural_Scenery Jiu_Jiang_Shi Jiu_Jiang_Shi 4A Jiangxi Free
+Pu Da Cuo Guo Jia Gong Yuan,Natural_Scenery,5A,Di_Qing_Zhou,Yunnan,138.0,MidRange,220,Natural_Scenery Natural_Scenery Natural_Scenery Di_Qing_Zhou Di_Qing_Zhou 5A Yunnan MidRange
+Pu Tian Jiu Li Hu,Natural_Scenery,4A,Pu_Tian_Shi,Fujian,50.0,Budget,221,Natural_Scenery Natural_Scenery Natural_Scenery Pu_Tian_Shi Pu_Tian_Shi 4A Fujian Budget
+Pu Tuo Shan,Religious_Culture,5A,Zhou_Shan_Shi,Zhejiang,160.0,Premium,222,Religious_Culture Religious_Culture Religious_Culture Zhou_Shan_Shi Zhou_Shan_Shi 5A Zhejiang Premium
+Qi Kou Gu Zhen,Ancient_Town,4A,Lv_Liang_Shi,Shanxi,0.0,Free,223,Ancient_Town Ancient_Town Ancient_Town Lv_Liang_Shi Lv_Liang_Shi 4A Shanxi Free
+Qi Tai He Bo Li Xi Da Quan,Natural_Scenery,4A,Qi_Tai_He_Shi,Heilongjiang,30.0,Budget,224,Natural_Scenery Natural_Scenery Natural_Scenery Qi_Tai_He_Shi Qi_Tai_He_Shi 4A Heilongjiang Budget
+Qi Yun Shan,Natural_Culture,4A,Huang_Shan_Shi,Anhui,75.0,MidRange,225,Natural_Culture Natural_Culture Natural_Culture Huang_Shan_Shi Huang_Shan_Shi 4A Anhui MidRange
+Qian Dao Hu,Natural_Scenery,5A,Hang_Zhou_Shi,Zhejiang,130.0,MidRange,226,Natural_Scenery Natural_Scenery Natural_Scenery Hang_Zhou_Shi Hang_Zhou_Shi 5A Zhejiang MidRange
+Qian Fo Shan,Natural_Culture,4A,Ji_Nan_Shi,Shandong,30.0,Budget,227,Natural_Culture Natural_Culture Natural_Culture Ji_Nan_Shi Ji_Nan_Shi 4A Shandong Budget
+Qian Jiang Cao Yu Gong Yuan,Cheng_Shi_Gong_Yuan,4A,Qian_Jiang_Shi,Hubei,0.0,Free,228,Cheng_Shi_Gong_Yuan Cheng_Shi_Gong_Yuan Cheng_Shi_Gong_Yuan Qian_Jiang_Shi Qian_Jiang_Shi 4A Hubei Free
+Qian Ling,Historical_Site,4A,Xian_Yang_Shi,Shaanxi,102.0,MidRange,229,Historical_Site Historical_Site Historical_Site Xian_Yang_Shi Xian_Yang_Shi 4A Shaanxi MidRange
+Qian Shan,Natural_Scenery,5A,An_Shan_Shi,Liaoning,80.0,MidRange,230,Natural_Scenery Natural_Scenery Natural_Scenery An_Shan_Shi An_Shan_Shi 5A Liaoning MidRange
+Qiao Jia Da Yuan,Historical_Architecture,5A,Jin_Zhong_Shi,Shanxi,115.0,MidRange,231,Historical_Architecture Historical_Architecture Historical_Architecture Jin_Zhong_Shi Jin_Zhong_Shi 5A Shanxi MidRange
+Qin Shi Huang Bing Ma Yong,Historical_Site,5A,Xi_An_Shi,Shaanxi,120.0,MidRange,232,Historical_Site Historical_Site Historical_Site Xi_An_Shi Xi_An_Shi 5A Shaanxi MidRange
+Qin Zhou San Niang Wan,Natural_Scenery,4A,Qin_Zhou_Shi,Guangxi,40.0,Budget,233,Natural_Scenery Natural_Scenery Natural_Scenery Qin_Zhou_Shi Qin_Zhou_Shi 4A Guangxi Budget
+Qing Cheng Shan,Religious_Culture,5A,Cheng_Du_Shi,Sichuan,90.0,MidRange,234,Religious_Culture Religious_Culture Religious_Culture Cheng_Du_Shi Cheng_Du_Shi 5A Sichuan MidRange
+Qing Dao Hai Bin Feng Jing Qu,Natural_Scenery,4A,Qing_Dao_Shi,Shandong,0.0,Free,235,Natural_Scenery Natural_Scenery Natural_Scenery Qing_Dao_Shi Qing_Dao_Shi 4A Shandong Free
+Qing Dao Pi Jiu Bo Wu Guan,Gong_Ye_Lv_You,4A,Qing_Dao_Shi,Shandong,60.0,Budget,236,Gong_Ye_Lv_You Gong_Ye_Lv_You Gong_Ye_Lv_You Qing_Dao_Shi Qing_Dao_Shi 4A Shandong Budget
+Qing Dong Ling,Historical_Site,5A,Tang_Shan_Shi,Hebei,108.0,MidRange,237,Historical_Site Historical_Site Historical_Site Tang_Shan_Shi Tang_Shan_Shi 5A Hebei MidRange
+Qing Jiang Hua Lang,Natural_Scenery,5A,Yi_Chang_Shi,Hubei,100.0,MidRange,238,Natural_Scenery Natural_Scenery Natural_Scenery Yi_Chang_Shi Yi_Chang_Shi 5A Hubei MidRange
+Qing Ming Shang He Yuan,Theme_Park,5A,Kai_Feng_Shi,Henan,120.0,MidRange,239,Theme_Park Theme_Park Theme_Park Kai_Feng_Shi Kai_Feng_Shi 5A Henan MidRange
+Qing Xi Ling,Historical_Site,5A,Bao_Ding_Shi,Hebei,90.0,MidRange,240,Historical_Site Historical_Site Historical_Site Bao_Ding_Shi Bao_Ding_Shi 5A Hebei MidRange
+Qing Yuan Shan,Natural_Culture,5A,Quan_Zhou_Shi,Fujian,70.0,MidRange,241,Natural_Culture Natural_Culture Natural_Culture Quan_Zhou_Shi Quan_Zhou_Shi 5A Fujian MidRange
+Qiong Hai Bo Ao Ya Zhou Lun Tan,Theme_Park,4A,Qiong_Hai_Shi,Hainan,128.0,MidRange,242,Theme_Park Theme_Park Theme_Park Qiong_Hai_Shi Qiong_Hai_Shi 4A Hainan MidRange
+Qu Fu San Kong,Historical_Culture,5A,Ji_Ning_Shi,Shandong,140.0,MidRange,243,Historical_Culture Historical_Culture Historical_Culture Ji_Ning_Shi Ji_Ning_Shi 5A Shandong MidRange
+Qu Zhou Jiang Lang Shan,Natural_Scenery,5A,Qu_Zhou_Shi,Zhejiang,100.0,MidRange,244,Natural_Scenery Natural_Scenery Natural_Scenery Qu_Zhou_Shi Qu_Zhou_Shi 5A Zhejiang MidRange
+Quan Zhou Kai Yuan Si,Religious_Culture,4A,Quan_Zhou_Shi,Fujian,0.0,Free,245,Religious_Culture Religious_Culture Religious_Culture Quan_Zhou_Shi Quan_Zhou_Shi 4A Fujian Free
+Quan Zhou Qing Jing Tao Yuan,Natural_Scenery,4A,Quan_Zhou_Shi,Fujian,50.0,Budget,246,Natural_Scenery Natural_Scenery Natural_Scenery Quan_Zhou_Shi Quan_Zhou_Shi 4A Fujian Budget
+Ri Zhao Hai Bin Guo Jia Sen Lin Gong Yuan,Natural_Scenery,4A,Ri_Zhao_Shi,Shandong,60.0,Budget,247,Natural_Scenery Natural_Scenery Natural_Scenery Ri_Zhao_Shi Ri_Zhao_Shi 4A Shandong Budget
+Rui Jin Gong He Guo Yao Lan,Revolutionary_Site,5A,Gan_Zhou_Shi,Jiangxi,65.0,MidRange,248,Revolutionary_Site Revolutionary_Site Revolutionary_Site Gan_Zhou_Shi Gan_Zhou_Shi 5A Jiangxi MidRange
+San Fang Qi Xiang,Historical_Culture,5A,Fu_Zhou_Shi,Fujian,0.0,Free,249,Historical_Culture Historical_Culture Historical_Culture Fu_Zhou_Shi Fu_Zhou_Shi 5A Fujian Free
+San He Gu Zhen,Ancient_Town,5A,He_Fei_Shi,Anhui,0.0,Free,250,Ancient_Town Ancient_Town Ancient_Town He_Fei_Shi He_Fei_Shi 5A Anhui Free
+San Jiang Cheng Yang Ba Zhai,Min_Su_Wen_Hua,4A,Liu_Zhou_Shi,Guangxi,60.0,Budget,251,Min_Su_Wen_Hua Min_Su_Wen_Hua Min_Su_Wen_Hua Liu_Zhou_Shi Liu_Zhou_Shi 4A Guangxi Budget
+San Ming Tai Ning Da Jin Hu,Natural_Scenery,5A,San_Ming_Shi,Fujian,80.0,MidRange,252,Natural_Scenery Natural_Scenery Natural_Scenery San_Ming_Shi San_Ming_Shi 5A Fujian MidRange
+San Qing Shan,Natural_Scenery,5A,Shang_Rao_Shi,Jiangxi,120.0,MidRange,253,Natural_Scenery Natural_Scenery Natural_Scenery Shang_Rao_Shi Shang_Rao_Shi 5A Jiangxi MidRange
+San Xia Da Ba,Shui_Li_Gong_Cheng,5A,Yi_Chang_Shi,Hubei,105.0,MidRange,254,Shui_Li_Gong_Cheng Shui_Li_Gong_Cheng Shui_Li_Gong_Cheng Yi_Chang_Shi Yi_Chang_Shi 5A Hubei MidRange
+San Xia Ren Jia,Natural_Culture,5A,Yi_Chang_Shi,Hubei,150.0,MidRange,255,Natural_Culture Natural_Culture Natural_Culture Yi_Chang_Shi Yi_Chang_Shi 5A Hubei MidRange
+San Xing Dui Yi Zhi,Historical_Site,4A,De_Yang_Shi,Sichuan,80.0,MidRange,256,Historical_Site Historical_Site Historical_Site De_Yang_Shi De_Yang_Shi 4A Sichuan MidRange
+San Ya Da Xiao Dong Tian,Natural_Culture,5A,San_Ya_Shi,Hainan,90.0,MidRange,257,Natural_Culture Natural_Culture Natural_Culture San_Ya_Shi San_Ya_Shi 5A Hainan MidRange
+San Ya Ya Long Wan,Natural_Scenery,4A,San_Ya_Shi,Hainan,0.0,Free,258,Natural_Scenery Natural_Scenery Natural_Scenery San_Ya_Shi San_Ya_Shi 4A Hainan Free
+Sha Jia Bang,Revolutionary_Site,5A,Su_Zhou_Shi,Jiangsu,100.0,MidRange,259,Revolutionary_Site Revolutionary_Site Revolutionary_Site Su_Zhou_Shi Su_Zhou_Shi 5A Jiangsu MidRange
+Sha Mian Dao,Historical_Culture,4A,Guang_Zhou_Shi,Guangdong,0.0,Free,260,Historical_Culture Historical_Culture Historical_Culture Guang_Zhou_Shi Guang_Zhou_Shi 4A Guangdong Free
+Shan Hai Guan,Historical_Culture,5A,Qin_Huang_Dao_Shi,Hebei,50.0,Budget,261,Historical_Culture Historical_Culture Historical_Culture Qin_Huang_Dao_Shi Qin_Huang_Dao_Shi 5A Hebei Budget
+Shan Xi Li Shi Bo Wu Guan,Wen_Bo_Yuan_Guan,4A,Xi_An_Shi,Shaanxi,0.0,Free,262,Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Xi_An_Shi Xi_An_Shi 4A Shaanxi Free
+Shang Hai Bo Wu Guan,Wen_Bo_Yuan_Guan,4A,Shanghai,Shanghai,0.0,Free,263,Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Shanghai Shanghai 4A Shanghai Free
+Shang Hai Chen Shan Zhi Wu Yuan,Botanical_Garden,4A,Shanghai,Shanghai,60.0,Budget,264,Botanical_Garden Botanical_Garden Botanical_Garden Shanghai Shanghai 4A Shanghai Budget
+Shang Hai Da Guan Yuan,Theme_Park,4A,Shanghai,Shanghai,60.0,Budget,265,Theme_Park Theme_Park Theme_Park Shanghai Shanghai 4A Shanghai Budget
+Shang Hai Di Shi Ni Le Yuan,Theme_Park,5A,Shanghai,Shanghai,399.0,Premium,266,Theme_Park Theme_Park Theme_Park Shanghai Shanghai 5A Shanghai Premium
+Shang Hai Dong Wu Yuan,Zoo,4A,Shanghai,Shanghai,40.0,Budget,267,Zoo Zoo Zoo Shanghai Shanghai 4A Shanghai Budget
+Shang Hai Du Sha Fu Ren La Xiang Guan,Zhu_Ti_Zhan_Lan,4A,Shanghai,Shanghai,190.0,Premium,268,Zhu_Ti_Zhan_Lan Zhu_Ti_Zhan_Lan Zhu_Ti_Zhan_Lan Shanghai Shanghai 4A Shanghai Premium
+Shang Hai Hai Yang Shui Zu Guan,Shui_Zu_Guan,4A,Shanghai,Shanghai,160.0,Premium,269,Shui_Zu_Guan Shui_Zu_Guan Shui_Zu_Guan Shanghai Shanghai 4A Shanghai Premium
+Shang Hai Huan Le Gu,Theme_Park,4A,Shanghai,Shanghai,230.0,Premium,270,Theme_Park Theme_Park Theme_Park Shanghai Shanghai 4A Shanghai Premium
+Shang Hai Huan Qiu Jin Rong Zhong Xin,Urban_Landmark,4A,Shanghai,Shanghai,180.0,Premium,271,Urban_Landmark Urban_Landmark Urban_Landmark Shanghai Shanghai 4A Shanghai Premium
+Shang Hai Ke Ji Guan,Ke_Pu_Jiao_Yu,5A,Shanghai,Shanghai,45.0,Budget,272,Ke_Pu_Jiao_Yu Ke_Pu_Jiao_Yu Ke_Pu_Jiao_Yu Shanghai Shanghai 5A Shanghai Budget
+Shang Hai Shi Ji Gong Yuan,Cheng_Shi_Gong_Yuan,4A,Shanghai,Shanghai,10.0,Budget,273,Cheng_Shi_Gong_Yuan Cheng_Shi_Gong_Yuan Cheng_Shi_Gong_Yuan Shanghai Shanghai 4A Shanghai Budget
+Shang Hai Ye Sheng Dong Wu Yuan,Zoo,5A,Shanghai,Shanghai,165.0,Premium,274,Zoo Zoo Zoo Shanghai Shanghai 5A Shanghai Premium
+Shang Hai Ying Shi Le Yuan,Theme_Park,4A,Shanghai,Shanghai,80.0,MidRange,275,Theme_Park Theme_Park Theme_Park Shanghai Shanghai 4A Shanghai MidRange
+Shang Hai Zhang Feng Hai Yang Shi Jie,Shui_Zu_Guan,4A,Shanghai,Shanghai,180.0,Premium,276,Shui_Zu_Guan Shui_Zu_Guan Shui_Zu_Guan Shanghai Shanghai 4A Shanghai Premium
+Shang Hai Zi Ran Bo Wu Guan,Wen_Bo_Yuan_Guan,4A,Shanghai,Shanghai,30.0,Budget,277,Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Wen_Bo_Yuan_Guan Shanghai Shanghai 4A Shanghai Budget
+Shang Rao Ji Zhong Ying,Revolutionary_Site,4A,Shang_Rao_Shi,Jiangxi,0.0,Free,278,Revolutionary_Site Revolutionary_Site Revolutionary_Site Shang_Rao_Shi Shang_Rao_Shi 4A Jiangxi Free
+Shao Lin Si,Religious_Culture,5A,Zheng_Zhou_Shi,Henan,100.0,MidRange,279,Religious_Culture Religious_Culture Religious_Culture Zheng_Zhou_Shi Zheng_Zhou_Shi 5A Henan MidRange
+Shao Shan,Revolutionary_Site,5A,Xiang_Tan_Shi,Hunan,60.0,Budget,280,Revolutionary_Site Revolutionary_Site Revolutionary_Site Xiang_Tan_Shi Xiang_Tan_Shi 5A Hunan Budget
+Shao Xing Lu Xun Gu Li,Historical_Culture,5A,Shao_Xing_Shi,Zhejiang,0.0,Free,281,Historical_Culture Historical_Culture Historical_Culture Shao_Xing_Shi Shao_Xing_Shi 5A Zhejiang Free
+Shen Nong Jia,Natural_Scenery,5A,Shen_Nong_Jia_Lin_Qu,Hubei,130.0,MidRange,282,Natural_Scenery Natural_Scenery Natural_Scenery Shen_Nong_Jia_Lin_Qu Shen_Nong_Jia_Lin_Qu 5A Hubei MidRange
+Shen Yang Gu Gong,Historical_Culture,4A,Shen_Yang_Shi,Liaoning,60.0,Budget,283,Historical_Culture Historical_Culture Historical_Culture Shen_Yang_Shi Shen_Yang_Shi 4A Liaoning Budget
+Shen Yang Shi Bo Yuan,Theme_Park,5A,Shen_Yang_Shi,Liaoning,50.0,Budget,284,Theme_Park Theme_Park Theme_Park Shen_Yang_Shi Shen_Yang_Shi 5A Liaoning Budget
+Shen Zhen Dong Bu Hua Qiao Cheng,Theme_Park,5A,Shen_Zhen_Shi,Guangdong,180.0,Premium,285,Theme_Park Theme_Park Theme_Park Shen_Zhen_Shi Shen_Zhen_Shi 5A Guangdong Premium
+Shen Zhen Hua Qiao Cheng,Theme_Park,5A,Shen_Zhen_Shi,Guangdong,230.0,Premium,286,Theme_Park Theme_Park Theme_Park Shen_Zhen_Shi Shen_Zhen_Shi 5A Guangdong Premium
+Shen Zhen Shi Jie Zhi Chuang,Theme_Park,5A,Shen_Zhen_Shi,Guangdong,220.0,Premium,287,Theme_Park Theme_Park Theme_Park Shen_Zhen_Shi Shen_Zhen_Shi 5A Guangdong Premium
+Sheng Suo Fei Ya Jiao Tang,Historical_Architecture,4A,Ha_Er_Bin_Shi,Heilongjiang,20.0,Budget,288,Historical_Architecture Historical_Architecture Historical_Architecture Ha_Er_Bin_Shi Ha_Er_Bin_Shi 4A Heilongjiang Budget
+Shi Jie Gong Yuan,Theme_Park,4A,Beijing,Beijing,100.0,MidRange,289,Theme_Park Theme_Park Theme_Park Beijing Beijing 4A Beijing MidRange
+Shi Lin,Zi_Ran_Qi_Guan,5A,Kun_Ming_Shi,Yunnan,130.0,MidRange,290,Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Kun_Ming_Shi Kun_Ming_Shi 5A Yunnan MidRange
+Shou Xi Hu,Natural_Scenery,5A,Yang_Zhou_Shi,Jiangsu,150.0,MidRange,291,Natural_Scenery Natural_Scenery Natural_Scenery Yang_Zhou_Shi Yang_Zhou_Shi 5A Jiangsu MidRange
+Shou Xian Gu Cheng,Historical_Culture,4A,Huai_Nan_Shi,Anhui,0.0,Free,292,Historical_Culture Historical_Culture Historical_Culture Huai_Nan_Shi Huai_Nan_Shi 4A Anhui Free
+Shu Nan Zhu Hai,Natural_Scenery,4A,Yi_Bin_Shi,Sichuan,100.0,MidRange,293,Natural_Scenery Natural_Scenery Natural_Scenery Yi_Bin_Shi Yi_Bin_Shi 4A Sichuan MidRange
+Shuang Ya Shan Qi Xing Feng,Natural_Scenery,4A,Shuang_Ya_Shan_Shi,Heilongjiang,40.0,Budget,294,Natural_Scenery Natural_Scenery Natural_Scenery Shuang_Ya_Shan_Shi Shuang_Ya_Shan_Shi 4A Heilongjiang Budget
+Si Gu Niang Shan,Natural_Scenery,4A,A_Ba_Zhou,Sichuan,150.0,MidRange,295,Natural_Scenery Natural_Scenery Natural_Scenery A_Ba_Zhou A_Ba_Zhou 4A Sichuan MidRange
+Si Ping Zhan Yi Ji Nian Guan,Revolutionary_Site,4A,Si_Ping_Shi,Jilin,0.0,Free,296,Revolutionary_Site Revolutionary_Site Revolutionary_Site Si_Ping_Shi Si_Ping_Shi 4A Jilin Free
+Song Hua Hu,Natural_Scenery,4A,Ji_Lin_Shi,Jilin,50.0,Budget,297,Natural_Scenery Natural_Scenery Natural_Scenery Ji_Lin_Shi Ji_Lin_Shi 4A Jilin Budget
+Su Zhou Hu Qiu,Historical_Culture,5A,Su_Zhou_Shi,Jiangsu,80.0,MidRange,298,Historical_Culture Historical_Culture Historical_Culture Su_Zhou_Shi Su_Zhou_Shi 5A Jiangsu MidRange
+Su Zhou Yuan Lin,Historical_Culture,5A,Su_Zhou_Shi,Jiangsu,90.0,MidRange,299,Historical_Culture Historical_Culture Historical_Culture Su_Zhou_Shi Su_Zhou_Shi 5A Jiangsu MidRange
+Sui Hua Jin Gui Shan Zhuang,Natural_Scenery,4A,Sui_Hua_Shi,Heilongjiang,50.0,Budget,300,Natural_Scenery Natural_Scenery Natural_Scenery Sui_Hua_Shi Sui_Hua_Shi 4A Heilongjiang Budget
+Sui Zhou Yan Di Gu Li,Historical_Culture,4A,Sui_Zhou_Shi,Hubei,60.0,Budget,301,Historical_Culture Historical_Culture Historical_Culture Sui_Zhou_Shi Sui_Zhou_Shi 4A Hubei Budget
+Tai Bai Shan,Natural_Scenery,5A,Bao_Ji_Shi,Shaanxi,90.0,MidRange,302,Natural_Scenery Natural_Scenery Natural_Scenery Bao_Ji_Shi Bao_Ji_Shi 5A Shaanxi MidRange
+Tai Er Zhuang Gu Cheng,Ancient_Town,5A,Zao_Zhuang_Shi,Shandong,160.0,Premium,303,Ancient_Town Ancient_Town Ancient_Town Zao_Zhuang_Shi Zao_Zhuang_Shi 5A Shandong Premium
+Tai Hang Shan Da Xia Gu,Natural_Scenery,5A,Zhang_Zhi_Shi,Shanxi,140.0,MidRange,304,Natural_Scenery Natural_Scenery Natural_Scenery Zhang_Zhi_Shi Zhang_Zhi_Shi 5A Shanxi MidRange
+Tai Ji Dong,Zi_Ran_Qi_Guan,4A,Xuan_Cheng_Shi,Anhui,80.0,MidRange,305,Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Xuan_Cheng_Shi Xuan_Cheng_Shi 4A Anhui MidRange
+Tai Lao Shan,Natural_Scenery,5A,Ning_De_Shi,Fujian,130.0,MidRange,306,Natural_Scenery Natural_Scenery Natural_Scenery Ning_De_Shi Ning_De_Shi 5A Fujian MidRange
+Tai Shan,Natural_Culture,5A,Tai_An_Shi,Shandong,115.0,MidRange,307,Natural_Culture Natural_Culture Natural_Culture Tai_An_Shi Tai_An_Shi 5A Shandong MidRange
+Tai Xing Da Xia Gu,Natural_Scenery,4A,An_Yang_Shi,Henan,140.0,MidRange,308,Natural_Scenery Natural_Scenery Natural_Scenery An_Yang_Shi An_Yang_Shi 4A Henan MidRange
+Tai Yang Dao,Natural_Scenery,5A,Ha_Er_Bin_Shi,Heilongjiang,30.0,Budget,309,Natural_Scenery Natural_Scenery Natural_Scenery Ha_Er_Bin_Shi Ha_Er_Bin_Shi 5A Heilongjiang Budget
+Tai Yuan Fen He Gong Yuan,Cheng_Shi_Gong_Yuan,4A,Tai_Yuan_Shi,Shanxi,0.0,Free,310,Cheng_Shi_Gong_Yuan Cheng_Shi_Gong_Yuan Cheng_Shi_Gong_Yuan Tai_Yuan_Shi Tai_Yuan_Shi 4A Shanxi Free
+Tai Zhou Shen Xian Ju,Natural_Scenery,5A,Tai_Zhou_Shi,Zhejiang,110.0,MidRange,311,Natural_Scenery Natural_Scenery Natural_Scenery Tai_Zhou_Shi Tai_Zhou_Shi 5A Zhejiang MidRange
+Tang Shan Nan Hu,Cheng_Shi_Gong_Yuan,4A,Tang_Shan_Shi,Hebei,0.0,Free,312,Cheng_Shi_Gong_Yuan Cheng_Shi_Gong_Yuan Cheng_Shi_Gong_Yuan Tang_Shan_Shi Tang_Shan_Shi 4A Hebei Free
+Tao Hua Yuan,Natural_Culture,4A,Chang_De_Shi,Hunan,128.0,MidRange,313,Natural_Culture Natural_Culture Natural_Culture Chang_De_Shi Chang_De_Shi 4A Hunan MidRange
+Teng Chong Re Hai,Zi_Ran_Qi_Guan,5A,Bao_Shan_Shi,Yunnan,78.0,MidRange,314,Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Bao_Shan_Shi Bao_Shan_Shi 5A Yunnan MidRange
+Teng Wang Ge,Historical_Architecture,5A,Nan_Chang_Shi,Jiangxi,50.0,Budget,315,Historical_Architecture Historical_Architecture Historical_Architecture Nan_Chang_Shi Nan_Chang_Shi 5A Jiangxi Budget
+Tian Men Lu Yu Gu Li,Historical_Culture,4A,Tian_Men_Shi,Hubei,60.0,Budget,316,Historical_Culture Historical_Culture Historical_Culture Tian_Men_Shi Tian_Men_Shi 4A Hubei Budget
+Tian Men Shan,Natural_Scenery,5A,Zhang_Jia_Jie_Shi,Hunan,258.0,Premium,317,Natural_Scenery Natural_Scenery Natural_Scenery Zhang_Jia_Jie_Shi Zhang_Jia_Jie_Shi 5A Hunan Premium
+Tian Mu Hu,Natural_Scenery,5A,Chang_Zhou_Shi,Jiangsu,180.0,Premium,318,Natural_Scenery Natural_Scenery Natural_Scenery Chang_Zhou_Shi Chang_Zhou_Shi 5A Jiangsu Premium
+Tian Tai Shan,Natural_Culture,5A,Tai_Zhou_Shi,Zhejiang,65.0,MidRange,319,Natural_Culture Natural_Culture Natural_Culture Tai_Zhou_Shi Tai_Zhou_Shi 5A Zhejiang MidRange
+Tian Tan Gong Yuan,Historical_Culture,5A,Beijing,Beijing,15.0,Budget,320,Historical_Culture Historical_Culture Historical_Culture Beijing Beijing 5A Beijing Budget
+Tian Tang Zhai,Natural_Scenery,5A,Lu_An_Shi,Anhui,115.0,MidRange,321,Natural_Scenery Natural_Scenery Natural_Scenery Lu_An_Shi Lu_An_Shi 5A Anhui MidRange
+Tian Xia Di Yi Quan,Natural_Scenery,5A,Ji_Nan_Shi,Shandong,40.0,Budget,322,Natural_Scenery Natural_Scenery Natural_Scenery Ji_Nan_Shi Ji_Nan_Shi 5A Shandong Budget
+Tian Ya Hai Jiao,Natural_Scenery,4A,San_Ya_Shi,Hainan,81.0,MidRange,323,Natural_Scenery Natural_Scenery Natural_Scenery San_Ya_Shi San_Ya_Shi 4A Hainan MidRange
+Tian Zhu Shan,Natural_Scenery,5A,An_Qing_Shi,Anhui,130.0,MidRange,324,Natural_Scenery Natural_Scenery Natural_Scenery An_Qing_Shi An_Qing_Shi 5A Anhui MidRange
+Tian Zi Fang,Wen_Hua_Yi_Shu,3A,Shanghai,Shanghai,0.0,Free,325,Wen_Hua_Yi_Shu Wen_Hua_Yi_Shu Wen_Hua_Yi_Shu Shanghai Shanghai 3A Shanghai Free
+Tie Ling Long Shou Shan,Natural_Scenery,4A,Tie_Ling_Shi,Liaoning,0.0,Free,326,Natural_Scenery Natural_Scenery Natural_Scenery Tie_Ling_Shi Tie_Ling_Shi 4A Liaoning Free
+Tong Li Gu Zhen,Ancient_Town,5A,Su_Zhou_Shi,Jiangsu,100.0,MidRange,327,Ancient_Town Ancient_Town Ancient_Town Su_Zhou_Shi Su_Zhou_Shi 5A Jiangsu MidRange
+Tong Ling Tian Jing Hu,Natural_Scenery,4A,Tong_Ling_Shi,Anhui,0.0,Free,328,Natural_Scenery Natural_Scenery Natural_Scenery Tong_Ling_Shi Tong_Ling_Shi 4A Anhui Free
+Tong Tian Yan,Natural_Culture,4A,Gan_Zhou_Shi,Jiangxi,60.0,Budget,329,Natural_Culture Natural_Culture Natural_Culture Gan_Zhou_Shi Gan_Zhou_Shi 4A Jiangxi Budget
+Wa Huang Gong,Religious_Culture,5A,Han_Dan_Shi,Hebei,70.0,MidRange,330,Religious_Culture Religious_Culture Religious_Culture Han_Dan_Shi Han_Dan_Shi 5A Hebei MidRange
+Wai Tan,Urban_Landscape,4A,Shanghai,Shanghai,0.0,Free,331,Urban_Landscape Urban_Landscape Urban_Landscape Shanghai Shanghai 4A Shanghai Free
+Wan Nian Bing Dong,Zi_Ran_Qi_Guan,4A,Xin_Zhou_Shi,Shanxi,120.0,MidRange,332,Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Xin_Zhou_Shi Xin_Zhou_Shi 4A Shanxi MidRange
+Wan Ning Xing Long Re Dai Zhi Wu Yuan,Botanical_Garden,4A,Wan_Ning_Shi,Hainan,60.0,Budget,333,Botanical_Garden Botanical_Garden Botanical_Garden Wan_Ning_Shi Wan_Ning_Shi 4A Hainan Budget
+Wang Jia Da Yuan,Historical_Architecture,4A,Jin_Zhong_Shi,Shanxi,55.0,Budget,334,Historical_Architecture Historical_Architecture Historical_Architecture Jin_Zhong_Shi Jin_Zhong_Shi 4A Shanxi Budget
+Wei Fang Qing Zhou Gu Cheng,Ancient_Town,5A,Wei_Fang_Shi,Shandong,0.0,Free,335,Ancient_Town Ancient_Town Ancient_Town Wei_Fang_Shi Wei_Fang_Shi 5A Shandong Free
+Wei Hai Hua Xia Cheng,Theme_Park,5A,Wei_Hai_Shi,Shandong,98.0,MidRange,336,Theme_Park Theme_Park Theme_Park Wei_Hai_Shi Wei_Hai_Shi 5A Shandong MidRange
+Wei Man Huang Gong Bo Wu Yuan,Historical_Culture,5A,Chang_Chun_Shi,Jilin,70.0,MidRange,337,Historical_Culture Historical_Culture Historical_Culture Chang_Chun_Shi Chang_Chun_Shi 5A Jilin MidRange
+Wei Zhou Dao,Natural_Scenery,5A,Bei_Hai_Shi,Guangxi,98.0,MidRange,338,Natural_Scenery Natural_Scenery Natural_Scenery Bei_Hai_Shi Bei_Hai_Shi 5A Guangxi MidRange
+Wen Chang Dong Jiao Ye Lin,Natural_Scenery,3A,Wen_Chang_Shi,Hainan,0.0,Free,339,Natural_Scenery Natural_Scenery Natural_Scenery Wen_Chang_Shi Wen_Chang_Shi 3A Hainan Free
+Wen Zhou Nan Xi Jiang,Natural_Scenery,4A,Wen_Zhou_Shi,Zhejiang,50.0,Budget,340,Natural_Scenery Natural_Scenery Natural_Scenery Wen_Zhou_Shi Wen_Zhou_Shi 4A Zhejiang Budget
+Wu Da Lian Chi,Zi_Ran_Qi_Guan,5A,Hei_He_Shi,Heilongjiang,60.0,Budget,341,Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Hei_He_Shi Hei_He_Shi 5A Heilongjiang Budget
+Wu Dang Shan,Natural_Culture,5A,Shi_Yan_Shi,Hubei,243.0,Premium,342,Natural_Culture Natural_Culture Natural_Culture Shi_Yan_Shi Shi_Yan_Shi 5A Hubei Premium
+Wu Gong Shan,Natural_Scenery,5A,Ping_Xiang_Shi,Jiangxi,70.0,MidRange,343,Natural_Scenery Natural_Scenery Natural_Scenery Ping_Xiang_Shi Ping_Xiang_Shi 5A Jiangxi MidRange
+Wu Hou Ci,Historical_Culture,4A,Cheng_Du_Shi,Sichuan,60.0,Budget,344,Historical_Culture Historical_Culture Historical_Culture Cheng_Du_Shi Cheng_Du_Shi 4A Sichuan Budget
+Wu Qiao Za Ji Da Shi Jie,Theme_Park,4A,Cang_Zhou_Shi,Hebei,120.0,MidRange,345,Theme_Park Theme_Park Theme_Park Cang_Zhou_Shi Cang_Zhou_Shi 4A Hebei MidRange
+Wu Song Dao,Zi_Ran_Qi_Guan,4A,Ji_Lin_Shi,Jilin,60.0,Budget,346,Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Zi_Ran_Qi_Guan Ji_Lin_Shi Ji_Lin_Shi 4A Jilin Budget
+Wu Tai Shan,Religious_Culture,5A,Xin_Zhou_Shi,Shanxi,135.0,MidRange,347,Religious_Culture Religious_Culture Religious_Culture Xin_Zhou_Shi Xin_Zhou_Shi 5A Shanxi MidRange
+Wu Xi Ying Shi Ji Di,Theme_Park,5A,Wu_Xi_Shi,Jiangsu,150.0,MidRange,348,Theme_Park Theme_Park Theme_Park Wu_Xi_Shi Wu_Xi_Shi 5A Jiangsu MidRange
+Wu Yi Shan,Natural_Culture,5A,Nan_Ping_Shi,Fujian,140.0,MidRange,349,Natural_Culture Natural_Culture Natural_Culture Nan_Ping_Shi Nan_Ping_Shi 5A Fujian MidRange
+Wu Yuan,Natural_Scenery,5A,Shang_Rao_Shi,Jiangxi,210.0,Premium,350,Natural_Scenery Natural_Scenery Natural_Scenery Shang_Rao_Shi Shang_Rao_Shi 5A Jiangxi Premium
+Wu Zhen,Ancient_Town,5A,Jia_Xing_Shi,Zhejiang,150.0,MidRange,351,Ancient_Town Ancient_Town Ancient_Town Jia_Xing_Shi Jia_Xing_Shi 5A Zhejiang MidRange
+Wu Zhi Zhou Dao,Natural_Scenery,5A,San_Ya_Shi,Hainan,144.0,MidRange,352,Natural_Scenery Natural_Scenery Natural_Scenery San_Ya_Shi San_Ya_Shi 5A Hainan MidRange
+Wu Zhou Qi Lou Cheng,Historical_Culture,4A,Wu_Zhou_Shi,Guangxi,0.0,Free,353,Historical_Culture Historical_Culture Historical_Culture Wu_Zhou_Shi Wu_Zhou_Shi 4A Guangxi Free
+Xi An Cheng Qiang,Historical_Architecture,5A,Xi_An_Shi,Shaanxi,54.0,Budget,354,Historical_Architecture Historical_Architecture Historical_Architecture Xi_An_Shi Xi_An_Shi 5A Shaanxi Budget
+Xi An Zhong Gu Lou,Historical_Architecture,4A,Xi_An_Shi,Shaanxi,50.0,Budget,355,Historical_Architecture Historical_Architecture Historical_Architecture Xi_An_Shi Xi_An_Shi 4A Shaanxi Budget
+Xi Bai Po,Revolutionary_Site,5A,Shi_Jia_Zhuang_Shi,Hebei,0.0,Free,356,Revolutionary_Site Revolutionary_Site Revolutionary_Site Shi_Jia_Zhuang_Shi Shi_Jia_Zhuang_Shi 5A Hebei Free
+Xi Di Hong Cun,Ancient_Town,5A,Huang_Shan_Shi,Anhui,104.0,MidRange,357,Ancient_Town Ancient_Town Ancient_Town Huang_Shan_Shi Huang_Shan_Shi 5A Anhui MidRange
+Xi Ling Xue Shan,Natural_Scenery,4A,Cheng_Du_Shi,Sichuan,120.0,MidRange,358,Natural_Scenery Natural_Scenery Natural_Scenery Cheng_Du_Shi Cheng_Du_Shi 4A Sichuan MidRange
+Xi Qiao Shan,Natural_Culture,5A,Fo_Shan_Shi,Guangdong,55.0,Budget,359,Natural_Culture Natural_Culture Natural_Culture Fo_Shan_Shi Fo_Shan_Shi 5A Guangdong Budget
+Xi Shuang Ban Na Re Dai Zhi Wu Yuan,Botanical_Garden,5A,Xi_Shuang_Ban_Na_Zhou,Yunnan,80.0,MidRange,360,Botanical_Garden Botanical_Garden Botanical_Garden Xi_Shuang_Ban_Na_Zhou Xi_Shuang_Ban_Na_Zhou 5A Yunnan MidRange
+Xi Shuang Ban Na Ye Xiang Gu,Natural_Scenery,4A,Xi_Shuang_Ban_Na_Zhou,Yunnan,60.0,Budget,361,Natural_Scenery Natural_Scenery Natural_Scenery Xi_Shuang_Ban_Na_Zhou Xi_Shuang_Ban_Na_Zhou 4A Yunnan Budget
+Xi Tang Gu Zhen,Ancient_Town,5A,Jia_Xing_Shi,Zhejiang,95.0,MidRange,362,Ancient_Town Ancient_Town Ancient_Town Jia_Xing_Shi Jia_Xing_Shi 5A Zhejiang MidRange
+Xia Men Ceng Cuo An,Historical_Culture,3A,Xia_Men_Shi,Fujian,0.0,Free,363,Historical_Culture Historical_Culture Historical_Culture Xia_Men_Shi Xia_Men_Shi 3A Fujian Free
+Xia Men Yuan Lin Zhi Wu Yuan,Botanical_Garden,4A,Xia_Men_Shi,Fujian,40.0,Budget,364,Botanical_Garden Botanical_Garden Botanical_Garden Xia_Men_Shi Xia_Men_Shi 4A Fujian Budget
+Xian Ning Jiu Gong Shan,Natural_Scenery,4A,Xian_Ning_Shi,Hubei,60.0,Budget,365,Natural_Scenery Natural_Scenery Natural_Scenery Xian_Ning_Shi Xian_Ning_Shi 4A Hubei Budget
+Xian Nv Hu,Natural_Scenery,4A,Xin_Yu_Shi,Jiangxi,90.0,MidRange,366,Natural_Scenery Natural_Scenery Natural_Scenery Xin_Yu_Shi Xin_Yu_Shi 4A Jiangxi MidRange
+Xian Tao Meng Li Shui Xiang,Natural_Scenery,4A,Xian_Tao_Shi,Hubei,100.0,MidRange,367,Natural_Scenery Natural_Scenery Natural_Scenery Xian_Tao_Shi Xian_Tao_Shi 4A Hubei MidRange
+Xiang Ge Li La,Natural_Culture,5A,Di_Qing_Zhou,Yunnan,0.0,Free,368,Natural_Culture Natural_Culture Natural_Culture Di_Qing_Zhou Di_Qing_Zhou 5A Yunnan Free
+Xiang Hai Zi Ran Bao Hu Qu,Natural_Scenery,4A,Bai_Cheng_Shi,Jilin,70.0,MidRange,369,Natural_Scenery Natural_Scenery Natural_Scenery Bai_Cheng_Shi Bai_Cheng_Shi 4A Jilin MidRange
+Xiang Shan Gong Yuan,Natural_Scenery,4A,Beijing,Beijing,10.0,Budget,370,Natural_Scenery Natural_Scenery Natural_Scenery Beijing Beijing 4A Beijing Budget
+Xiang Yang Gu Long Zhong,Historical_Culture,5A,Xiang_Yang_Shi,Hubei,87.0,MidRange,371,Historical_Culture Historical_Culture Historical_Culture Xiang_Yang_Shi Xiang_Yang_Shi 5A Hubei MidRange
+Xiao Gan Shuang Feng Shan,Natural_Scenery,4A,Xiao_Gan_Shi,Hubei,45.0,Budget,372,Natural_Scenery Natural_Scenery Natural_Scenery Xiao_Gan_Shi Xiao_Gan_Shi 4A Hubei Budget
+Xiao Lang Di,Shui_Li_Gong_Cheng,4A,Luo_Yang_Shi,Henan,40.0,Budget,373,Shui_Li_Gong_Cheng Shui_Li_Gong_Cheng Shui_Li_Gong_Cheng Luo_Yang_Shi Luo_Yang_Shi 4A Henan Budget
+Xing Tai Da Xia Gu,Natural_Scenery,4A,Xing_Tai_Shi,Hebei,50.0,Budget,374,Natural_Scenery Natural_Scenery Natural_Scenery Xing_Tai_Shi Xing_Tai_Shi 4A Hebei Budget
+Xu Zhou Yun Long Hu,Natural_Scenery,5A,Xu_Zhou_Shi,Jiangsu,0.0,Free,375,Natural_Scenery Natural_Scenery Natural_Scenery Xu_Zhou_Shi Xu_Zhou_Shi 5A Jiangsu Free
+Xuan Kong Si,Religious_Culture,4A,Da_Tong_Shi,Shanxi,125.0,MidRange,376,Religious_Culture Religious_Culture Religious_Culture Da_Tong_Shi Da_Tong_Shi 4A Shanxi MidRange
+Ya Bu Li Hua Xue Chang,Sports_&_Leisure,4A,Ha_Er_Bin_Shi,Heilongjiang,180.0,Premium,377,Sports_&_Leisure Sports_&_Leisure Sports_&_Leisure Ha_Er_Bin_Shi Ha_Er_Bin_Shi 4A Heilongjiang Premium
+Ya Lu Jiang Duan Qiao,Revolutionary_Site,4A,Dan_Dong_Shi,Liaoning,30.0,Budget,378,Revolutionary_Site Revolutionary_Site Revolutionary_Site Dan_Dong_Shi Dan_Dong_Shi 4A Liaoning Budget
+Ya Nuo Da Yu Lin,Natural_Scenery,5A,San_Ya_Shi,Hainan,168.0,Premium,379,Natural_Scenery Natural_Scenery Natural_Scenery San_Ya_Shi San_Ya_Shi 5A Hainan Premium
+Yan An Ge Ming Ji Nian Guan,Revolutionary_Site,5A,Yan_An_Shi,Shaanxi,0.0,Free,380,Revolutionary_Site Revolutionary_Site Revolutionary_Site Yan_An_Shi Yan_An_Shi 5A Shaanxi Free
+Yan Bian Chao Xian Zu Min Su Yuan,Min_Su_Wen_Hua,4A,Yan_Bian_Zhou,Jilin,30.0,Budget,381,Min_Su_Wen_Hua Min_Su_Wen_Hua Min_Su_Wen_Hua Yan_Bian_Zhou Yan_Bian_Zhou 4A Jilin Budget
+Yan Cheng Dan Ding He Shi Di,Natural_Scenery,4A,Yan_Cheng_Shi,Jiangsu,45.0,Budget,382,Natural_Scenery Natural_Scenery Natural_Scenery Yan_Cheng_Shi Yan_Cheng_Shi 4A Jiangsu Budget
+Yan Dang Shan,Natural_Scenery,5A,Wen_Zhou_Shi,Zhejiang,90.0,MidRange,383,Natural_Scenery Natural_Scenery Natural_Scenery Wen_Zhou_Shi Wen_Zhou_Shi 5A Zhejiang MidRange
+Yan Di Ling,Historical_Culture,5A,Zhu_Zhou_Shi,Hunan,60.0,Budget,384,Historical_Culture Historical_Culture Historical_Culture Zhu_Zhou_Shi Zhu_Zhou_Shi 5A Hunan Budget
+Yan Men Guan,Historical_Culture,5A,Xin_Zhou_Shi,Shanxi,90.0,MidRange,385,Historical_Culture Historical_Culture Historical_Culture Xin_Zhou_Shi Xin_Zhou_Shi 5A Shanxi MidRange
+Yan Tai Shan,Natural_Scenery,4A,Yan_Tai_Shi,Shandong,50.0,Budget,386,Natural_Scenery Natural_Scenery Natural_Scenery Yan_Tai_Shi Yan_Tai_Shi 4A Shandong Budget
+Yang Shuo Xi Jie,Ancient_Town,4A,Gui_Lin_Shi,Guangxi,0.0,Free,387,Ancient_Town Ancient_Town Ancient_Town Gui_Lin_Shi Gui_Lin_Shi 4A Guangxi Free
+Ye San Po,Natural_Scenery,5A,Bao_Ding_Shi,Hebei,100.0,MidRange,388,Natural_Scenery Natural_Scenery Natural_Scenery Bao_Ding_Shi Bao_Ding_Shi 5A Hebei MidRange
+Yi Chun Wu Ying Guo Jia Sen Lin Gong Yuan,Natural_Scenery,4A,Yi_Chun_Shi,Heilongjiang,60.0,Budget,389,Natural_Scenery Natural_Scenery Natural_Scenery Yi_Chun_Shi Yi_Chun_Shi 4A Heilongjiang Budget
+Yi He Yuan,Historical_Culture,5A,Beijing,Beijing,30.0,Budget,390,Historical_Culture Historical_Culture Historical_Culture Beijing Beijing 5A Beijing Budget
+Yi Meng Shan,Natural_Scenery,5A,Lin_Yi_Shi,Shandong,70.0,MidRange,391,Natural_Scenery Natural_Scenery Natural_Scenery Lin_Yi_Shi Lin_Yi_Shi 5A Shandong MidRange
+Yin Xu,Historical_Site,5A,An_Yang_Shi,Henan,70.0,MidRange,392,Historical_Site Historical_Site Historical_Site An_Yang_Shi An_Yang_Shi 5A Henan MidRange
+Ying Hu,Natural_Scenery,4A,An_Kang_Shi,Shaanxi,70.0,MidRange,393,Natural_Scenery Natural_Scenery Natural_Scenery An_Kang_Shi An_Kang_Shi 4A Shaanxi MidRange
+Ying Kou Ba Yu Quan,Natural_Scenery,4A,Ying_Kou_Shi,Liaoning,0.0,Free,394,Natural_Scenery Natural_Scenery Natural_Scenery Ying_Kou_Shi Ying_Kou_Shi 4A Liaoning Free
+Yong He Gong,Religious_Culture,4A,Beijing,Beijing,25.0,Budget,395,Religious_Culture Religious_Culture Religious_Culture Beijing Beijing 4A Beijing Budget
+Yu Lin Yun Tian Wen Hua Cheng,Theme_Park,4A,Yu_Lin_Shi,Guangxi,150.0,MidRange,396,Theme_Park Theme_Park Theme_Park Yu_Lin_Shi Yu_Lin_Shi 4A Guangxi MidRange
+Yu Long Xue Shan,Natural_Scenery,5A,Li_Jiang_Shi,Yunnan,130.0,MidRange,397,Natural_Scenery Natural_Scenery Natural_Scenery Li_Jiang_Shi Li_Jiang_Shi 5A Yunnan MidRange
+Yu Yuan,Historical_Architecture,4A,Shanghai,Shanghai,40.0,Budget,398,Historical_Architecture Historical_Architecture Historical_Architecture Shanghai Shanghai 4A Shanghai Budget
+Yuan Ming Yuan Yi Zhi Gong Yuan,Historical_Site,4A,Beijing,Beijing,25.0,Budget,399,Historical_Site Historical_Site Historical_Site Beijing Beijing 4A Beijing Budget
+Yuan Tou Zhu,Natural_Scenery,5A,Wu_Xi_Shi,Jiangsu,90.0,MidRange,400,Natural_Scenery Natural_Scenery Natural_Scenery Wu_Xi_Shi Wu_Xi_Shi 5A Jiangsu MidRange
+Yuan Yang Ti Tian,Natural_Scenery,4A,Hong_He_Zhou,Yunnan,70.0,MidRange,401,Natural_Scenery Natural_Scenery Natural_Scenery Hong_He_Zhou Hong_He_Zhou 4A Yunnan MidRange
+Yue Lu Shan,Natural_Culture,5A,Chang_Sha_Shi,Hunan,0.0,Free,402,Natural_Culture Natural_Culture Natural_Culture Chang_Sha_Shi Chang_Sha_Shi 5A Hunan Free
+Yue Yang Jun Shan Dao,Natural_Scenery,5A,Yue_Yang_Shi,Hunan,78.0,MidRange,403,Natural_Scenery Natural_Scenery Natural_Scenery Yue_Yang_Shi Yue_Yang_Shi 5A Hunan MidRange
+Yue Yang Lou,Historical_Architecture,5A,Yue_Yang_Shi,Hunan,70.0,MidRange,404,Historical_Architecture Historical_Architecture Historical_Architecture Yue_Yang_Shi Yue_Yang_Shi 5A Hunan MidRange
+Yun Cheng Yan Hu,Natural_Scenery,4A,Yun_Cheng_Shi,Shanxi,30.0,Budget,405,Natural_Scenery Natural_Scenery Natural_Scenery Yun_Cheng_Shi Yun_Cheng_Shi 4A Shanxi Budget
+Yun Gang Shi Ku,Historical_Culture,5A,Da_Tong_Shi,Shanxi,120.0,MidRange,406,Historical_Culture Historical_Culture Historical_Culture Da_Tong_Shi Da_Tong_Shi 5A Shanxi MidRange
+Yun Nan Min Zu Cun,Theme_Park,4A,Kun_Ming_Shi,Yunnan,90.0,MidRange,407,Theme_Park Theme_Park Theme_Park Kun_Ming_Shi Kun_Ming_Shi 4A Yunnan MidRange
+Yun Tai Shan,Natural_Scenery,5A,Jiao_Zuo_Shi,Henan,120.0,MidRange,408,Natural_Scenery Natural_Scenery Natural_Scenery Jiao_Zuo_Shi Jiao_Zuo_Shi 5A Henan MidRange
+Zha Long Zi Ran Bao Hu Qu,Natural_Scenery,4A,Qi_Qi_Ha_Er_Shi,Heilongjiang,65.0,MidRange,409,Natural_Scenery Natural_Scenery Natural_Scenery Qi_Qi_Ha_Er_Shi Qi_Qi_Ha_Er_Shi 4A Heilongjiang MidRange
+Zhan Jiang Hu Guang Yan,Natural_Scenery,4A,Zhan_Jiang_Shi,Guangdong,50.0,Budget,410,Natural_Scenery Natural_Scenery Natural_Scenery Zhan_Jiang_Shi Zhan_Jiang_Shi 4A Guangdong Budget
+Zhang Jia Jie Wu Ling Yuan,Natural_Scenery,5A,Zhang_Jia_Jie_Shi,Hunan,225.0,Premium,411,Natural_Scenery Natural_Scenery Natural_Scenery Zhang_Jia_Jie_Shi Zhang_Jia_Jie_Shi 5A Hunan Premium
+Zhang Jia Kou Da Jing Men,Historical_Culture,4A,Zhang_Jia_Kou_Shi,Hebei,20.0,Budget,412,Historical_Culture Historical_Culture Historical_Culture Zhang_Jia_Kou_Shi Zhang_Jia_Kou_Shi 4A Hebei Budget
+Zhang Zhou Dong Shan Dao,Natural_Scenery,4A,Zhang_Zhou_Shi,Fujian,60.0,Budget,413,Natural_Scenery Natural_Scenery Natural_Scenery Zhang_Zhou_Shi Zhang_Zhou_Shi 4A Fujian Budget
+Zhao Qing Xing Hu,Natural_Scenery,5A,Zhao_Qing_Shi,Guangdong,78.0,MidRange,414,Natural_Scenery Natural_Scenery Natural_Scenery Zhao_Qing_Shi Zhao_Qing_Shi 5A Guangdong MidRange
+Zhao Yang Feng Huang Shan,Natural_Culture,4A,Zhao_Yang_Shi,Liaoning,60.0,Budget,415,Natural_Culture Natural_Culture Natural_Culture Zhao_Yang_Shi Zhao_Yang_Shi 4A Liaoning Budget
+Zhao Zhou Qiao,Historical_Architecture,4A,Shi_Jia_Zhuang_Shi,Hebei,40.0,Budget,416,Historical_Architecture Historical_Architecture Historical_Architecture Shi_Jia_Zhuang_Shi Shi_Jia_Zhuang_Shi 4A Hebei Budget
+Zheng Ding Long Xing Si,Religious_Culture,4A,Shi_Jia_Zhuang_Shi,Hebei,50.0,Budget,417,Religious_Culture Religious_Culture Religious_Culture Shi_Jia_Zhuang_Shi Shi_Jia_Zhuang_Shi 4A Hebei Budget
+Zhong Du Gou,Natural_Scenery,4A,Luo_Yang_Shi,Henan,120.0,MidRange,418,Natural_Scenery Natural_Scenery Natural_Scenery Luo_Yang_Shi Luo_Yang_Shi 4A Henan MidRange
+Zhong Guo Ke Ji Guan,Ke_Pu_Jiao_Yu,4A,Beijing,Beijing,30.0,Budget,419,Ke_Pu_Jiao_Yu Ke_Pu_Jiao_Yu Ke_Pu_Jiao_Yu Beijing Beijing 4A Beijing Budget
+Zhong Guo Xue Xiang,Natural_Scenery,4A,Mu_Dan_Jiang_Shi,Heilongjiang,120.0,MidRange,420,Natural_Scenery Natural_Scenery Natural_Scenery Mu_Dan_Jiang_Shi Mu_Dan_Jiang_Shi 4A Heilongjiang MidRange
+Zhong Nan Shan,Natural_Culture,4A,Xi_An_Shi,Shaanxi,65.0,MidRange,421,Natural_Culture Natural_Culture Natural_Culture Xi_An_Shi Xi_An_Shi 4A Shaanxi MidRange
+Zhong Shan Ling,Revolutionary_Site,5A,Nan_Jing_Shi,Jiangsu,0.0,Free,422,Revolutionary_Site Revolutionary_Site Revolutionary_Site Nan_Jing_Shi Nan_Jing_Shi 5A Jiangsu Free
+Zhong Shan Sun Zhong Shan Gu Ju,Revolutionary_Site,5A,Zhong_Shan_Shi,Guangdong,0.0,Free,423,Revolutionary_Site Revolutionary_Site Revolutionary_Site Zhong_Shan_Shi Zhong_Shan_Shi 5A Guangdong Free
+Zhong Yang Da Jie,Historical_Culture,4A,Ha_Er_Bin_Shi,Heilongjiang,0.0,Free,424,Historical_Culture Historical_Culture Historical_Culture Ha_Er_Bin_Shi Ha_Er_Bin_Shi 4A Heilongjiang Free
+Zhou Shan Zhu Jia Jian,Natural_Scenery,4A,Zhou_Shan_Shi,Zhejiang,120.0,MidRange,425,Natural_Scenery Natural_Scenery Natural_Scenery Zhou_Shan_Shi Zhou_Shan_Shi 4A Zhejiang MidRange
+Zhou Zhuang Gu Zhen,Ancient_Town,5A,Su_Zhou_Shi,Jiangsu,100.0,MidRange,426,Ancient_Town Ancient_Town Ancient_Town Su_Zhou_Shi Su_Zhou_Shi 5A Jiangsu MidRange
+Zhu Hai Zhang Long Hai Yang Wang Guo,Theme_Park,5A,Zhu_Hai_Shi,Guangdong,395.0,Premium,427,Theme_Park Theme_Park Theme_Park Zhu_Hai_Shi Zhu_Hai_Shi 5A Guangdong Premium
+Zhu Jia Jiao Gu Zhen,Ancient_Town,4A,Shanghai,Shanghai,60.0,Budget,428,Ancient_Town Ancient_Town Ancient_Town Shanghai Shanghai 4A Shanghai Budget
+Zi Bo Zhou Cun Gu Shang Cheng,Ancient_Town,4A,Zi_Bo_Shi,Shandong,70.0,MidRange,429,Ancient_Town Ancient_Town Ancient_Town Zi_Bo_Shi Zi_Bo_Shi 4A Shandong MidRange
+Zi Que Jie Ti Tian,Natural_Scenery,4A,Lou_Di_Shi,Hunan,68.0,MidRange,430,Natural_Scenery Natural_Scenery Natural_Scenery Lou_Di_Shi Lou_Di_Shi 4A Hunan MidRange
