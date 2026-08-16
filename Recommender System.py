@@ -10,8 +10,6 @@ st.set_page_config(page_title="Tourism Recommender", layout="wide")
 @st.cache_resource
 def load_artifacts():
     # Load score matrices
-    pred_cf = np.load('pred_cf_matrix.npy')
-    pred_content = np.load('pred_content_matrix.npy')
     pred_nn = np.load('pred_nn_matrix.npy')
     hybrid = np.load('hybrid_matrix.npy')
     
