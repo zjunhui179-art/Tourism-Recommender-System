@@ -2,6 +2,7 @@ import streamlit as st
 import pickle
 import numpy as np
 import pandas as pd
+import os
 
 # Set page config
 st.set_page_config(page_title="Tourism Recommender", layout="wide")
@@ -24,19 +25,17 @@ def load_artifacts():
         user_to_idx = pickle.load(f)
     with open('train_seen.pkl', 'rb') as f:
         train_seen = pickle.load(f)
-    import os
-
-# Get the absolute path to the folder containing this script
-script_dir = os.path.dirname(os.path.abspath(__file__))
-csv_file_path = os.path.join(script_dir, 'attraction_metadata.csv')
-
-# Use the absolute path
-attr_meta = pd.read_csv(csv_file_path)
-return (pred_nn, hybrid, user_ids, item_ids,
+    # Get the absolute path to the folder containing this script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    csv_file_path = os.path.join(script_dir, 'attraction_metadata.csv')
+    
+    # Use the absolute path
+    attr_meta = pd.read_csv(csv_file_path)
+    return (pred_nn, hybrid, user_ids, item_ids,
         idx_to_item, user_to_idx, train_seen, attr_meta)
 
 # Load data
-(pred_cf, pred_content, pred_nn, hybrid, user_ids, item_ids,
+(pred_nn, hybrid, user_ids, item_ids,
  idx_to_item, user_to_idx, train_seen, attr_meta) = load_artifacts()
 
 # Recommendation function
